@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhijit1859/DSA-Arena/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/abhijit1859/DSA-Arena/tree/master/0141-linked-list-cycle) |
+| [0344-reverse-string](https://github.com/abhijit1859/DSA-Arena/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/abhijit1859/DSA-Arena/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/abhijit1859/DSA-Arena/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->

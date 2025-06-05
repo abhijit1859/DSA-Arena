@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhijit1859/DSA-Arena/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/abhijit1859/DSA-Arena/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/abhijit1859/DSA-Arena/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/abhijit1859/DSA-Arena/tree/master/0633-sum-of-square-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -41,12 +42,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhijit1859/DSA-Arena/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/abhijit1859/DSA-Arena/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhijit1859/DSA-Arena/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/abhijit1859/DSA-Arena/tree/master/0633-sum-of-square-numbers) |
 | [0907-koko-eating-bananas](https://github.com/abhijit1859/DSA-Arena/tree/master/0907-koko-eating-bananas) |
 ## Math
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/abhijit1859/DSA-Arena/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/abhijit1859/DSA-Arena/tree/master/0231-power-of-two) |
+| [0633-sum-of-square-numbers](https://github.com/abhijit1859/DSA-Arena/tree/master/0633-sum-of-square-numbers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/abhijit1859/DSA-Arena/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Bit Manipulation
 |  |

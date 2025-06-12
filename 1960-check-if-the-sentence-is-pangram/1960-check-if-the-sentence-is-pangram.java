@@ -1,14 +1,13 @@
 class Solution {
     public boolean checkIfPangram(String sentence) {
         String dummy= "";
+        Set<Character> letters = new HashSet<>();
         for(int i=0;i<sentence.length();i++){
             char ch = sentence.charAt(i);
 
-            if (Character.isLetter(ch) && !dummy.contains(String.valueOf(ch))) {
-                dummy += ch;
-            }
+            letters.add(ch);
         }
-        if(dummy.length()==26){
+        if(letters.size()==26){
             return true;
         }else{
             return false;

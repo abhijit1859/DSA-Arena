@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/abhijit1859/DSA-Arena/tree/master/0141-linked-list-cycle) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/abhijit1859/DSA-Arena/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/abhijit1859/DSA-Arena/tree/master/0560-subarray-sum-equals-k) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/abhijit1859/DSA-Arena/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/abhijit1859/DSA-Arena/tree/master/0443-string-compression) |
 | [0953-reverse-only-letters](https://github.com/abhijit1859/DSA-Arena/tree/master/0953-reverse-only-letters) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/abhijit1859/DSA-Arena/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/abhijit1859/DSA-Arena/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Recursion
 |  |
 | ------- |

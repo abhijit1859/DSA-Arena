@@ -7,12 +7,13 @@ class Solution {
             if (chars[i] == chars[i - 1]) {
                 count++;
             } else {
-                chars[index++] = chars[i - 1]; // Write the char
-
+                chars[index] = chars[i - 1]; // Write the char
+                index++;
                 if (count > 1) {
                     String ctr = String.valueOf(count);
                     for (int k = 0; k < ctr.length(); k++) {
-                        chars[index++] = ctr.charAt(k);
+                        chars[index] = ctr.charAt(k);
+                        index++;
                     }
                 }
 
@@ -21,11 +22,13 @@ class Solution {
         }
 
         // Handle the last group
-        chars[index++] = chars[chars.length - 1];
+        chars[index] = chars[chars.length - 1];
+        index++;
         if (count > 1) {
             String ctr = String.valueOf(count);
             for (int k = 0; k < ctr.length(); k++) {
-                chars[index++] = ctr.charAt(k);
+                chars[index] = ctr.charAt(k);
+                index++;
             }
         }
 

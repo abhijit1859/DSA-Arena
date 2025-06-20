@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhijit1859/DSA-Arena/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/abhijit1859/DSA-Arena/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/abhijit1859/DSA-Arena/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/abhijit1859/DSA-Arena/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/abhijit1859/DSA-Arena/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhijit1859/DSA-Arena/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/abhijit1859/DSA-Arena/tree/master/0014-longest-common-prefix) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/abhijit1859/DSA-Arena/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/abhijit1859/DSA-Arena/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhijit1859/DSA-Arena/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/abhijit1859/DSA-Arena/tree/master/0038-count-and-say) |
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhijit1859/DSA-Arena/tree/master/0020-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/abhijit1859/DSA-Arena/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->

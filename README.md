@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/abhijit1859/DSA-Arena/tree/master/0812-rotate-string) |
 | [0889-buddy-strings](https://github.com/abhijit1859/DSA-Arena/tree/master/0889-buddy-strings) |
 | [0953-reverse-only-letters](https://github.com/abhijit1859/DSA-Arena/tree/master/0953-reverse-only-letters) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/abhijit1859/DSA-Arena/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/abhijit1859/DSA-Arena/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/abhijit1859/DSA-Arena/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/abhijit1859/DSA-Arena/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhijit1859/DSA-Arena/tree/master/0020-valid-parentheses) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/abhijit1859/DSA-Arena/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/abhijit1859/DSA-Arena/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
 |  |

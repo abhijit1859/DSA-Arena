@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhijit1859/DSA-Arena/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/abhijit1859/DSA-Arena/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/abhijit1859/DSA-Arena/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/abhijit1859/DSA-Arena/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/abhijit1859/DSA-Arena/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/abhijit1859/DSA-Arena/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/abhijit1859/DSA-Arena/tree/master/0560-subarray-sum-equals-k) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/abhijit1859/DSA-Arena/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/abhijit1859/DSA-Arena/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/abhijit1859/DSA-Arena/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/abhijit1859/DSA-Arena/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/abhijit1859/DSA-Arena/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/abhijit1859/DSA-Arena/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/abhijit1859/DSA-Arena/tree/master/0520-detect-capital) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/abhijit1859/DSA-Arena/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/abhijit1859/DSA-Arena/tree/master/0451-sort-characters-by-frequency) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/abhijit1859/DSA-Arena/tree/master/1823-determine-if-string-halves-are-alike) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/abhijit1859/DSA-Arena/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -193,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/abhijit1859/DSA-Arena/tree/master/3914-check-if-any-element-has-prime-frequency) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/abhijit1859/DSA-Arena/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->

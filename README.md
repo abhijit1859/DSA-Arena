@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhijit1859/DSA-Arena/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/abhijit1859/DSA-Arena/tree/master/0094-binary-tree-inorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/abhijit1859/DSA-Arena/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/abhijit1859/DSA-Arena/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
@@ -200,4 +201,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/abhijit1859/DSA-Arena/tree/master/0387-first-unique-character-in-a-string) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/abhijit1859/DSA-Arena/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/abhijit1859/DSA-Arena/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/abhijit1859/DSA-Arena/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->

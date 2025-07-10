@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/abhijit1859/DSA-Arena/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/abhijit1859/DSA-Arena/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/abhijit1859/DSA-Arena/tree/master/0682-baseball-game) |
+| [0747-min-cost-climbing-stairs](https://github.com/abhijit1859/DSA-Arena/tree/master/0747-min-cost-climbing-stairs) |
 | [0907-koko-eating-bananas](https://github.com/abhijit1859/DSA-Arena/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/abhijit1859/DSA-Arena/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/abhijit1859/DSA-Arena/tree/master/0941-sort-array-by-parity) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/abhijit1859/DSA-Arena/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/abhijit1859/DSA-Arena/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/abhijit1859/DSA-Arena/tree/master/0322-coin-change) |
+| [0747-min-cost-climbing-stairs](https://github.com/abhijit1859/DSA-Arena/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/abhijit1859/DSA-Arena/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |

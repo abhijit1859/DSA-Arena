@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/abhijit1859/DSA-Arena/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/abhijit1859/DSA-Arena/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/abhijit1859/DSA-Arena/tree/master/0047-permutations-ii) |
+| [0055-jump-game](https://github.com/abhijit1859/DSA-Arena/tree/master/0055-jump-game) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/abhijit1859/DSA-Arena/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/abhijit1859/DSA-Arena/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhijit1859/DSA-Arena/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhijit1859/DSA-Arena/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/abhijit1859/DSA-Arena/tree/master/0055-jump-game) |
 | [0917-boats-to-save-people](https://github.com/abhijit1859/DSA-Arena/tree/master/0917-boats-to-save-people) |
 ## Sorting
 |  |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abhijit1859/DSA-Arena/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/abhijit1859/DSA-Arena/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/abhijit1859/DSA-Arena/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/abhijit1859/DSA-Arena/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/abhijit1859/DSA-Arena/tree/master/0198-house-robber) |

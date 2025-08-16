@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/abhijit1859/DSA-Arena/tree/master/0941-sort-array-by-parity) |
 | [0966-binary-subarrays-with-sum](https://github.com/abhijit1859/DSA-Arena/tree/master/0966-binary-subarrays-with-sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/abhijit1859/DSA-Arena/tree/master/1019-squares-of-a-sorted-array) |
+| [1034-subarrays-with-k-different-integers](https://github.com/abhijit1859/DSA-Arena/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhijit1859/DSA-Arena/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/abhijit1859/DSA-Arena/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/abhijit1859/DSA-Arena/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/abhijit1859/DSA-Arena/tree/master/0560-subarray-sum-equals-k) |
 | [0889-buddy-strings](https://github.com/abhijit1859/DSA-Arena/tree/master/0889-buddy-strings) |
 | [0966-binary-subarrays-with-sum](https://github.com/abhijit1859/DSA-Arena/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/abhijit1859/DSA-Arena/tree/master/1034-subarrays-with-k-different-integers) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/abhijit1859/DSA-Arena/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/abhijit1859/DSA-Arena/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Prefix Sum
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/abhijit1859/DSA-Arena/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/abhijit1859/DSA-Arena/tree/master/0713-subarray-product-less-than-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/abhijit1859/DSA-Arena/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/abhijit1859/DSA-Arena/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhijit1859/DSA-Arena/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/abhijit1859/DSA-Arena/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## String Matching
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/abhijit1859/DSA-Arena/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/abhijit1859/DSA-Arena/tree/master/0451-sort-characters-by-frequency) |
+| [1034-subarrays-with-k-different-integers](https://github.com/abhijit1859/DSA-Arena/tree/master/1034-subarrays-with-k-different-integers) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/abhijit1859/DSA-Arena/tree/master/1823-determine-if-string-halves-are-alike) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/abhijit1859/DSA-Arena/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Trie

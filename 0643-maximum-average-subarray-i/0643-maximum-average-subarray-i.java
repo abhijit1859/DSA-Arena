@@ -12,5 +12,3 @@ class Solution {
        return (double) maxSum/k;
     }
 }
-//[1,12,-5,-6,50,3]
-//[1,13,8,2,52,55]

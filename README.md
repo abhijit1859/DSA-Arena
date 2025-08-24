@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/abhijit1859/DSA-Arena/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/abhijit1859/DSA-Arena/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/abhijit1859/DSA-Arena/tree/master/0047-permutations-ii) |
+| [0054-spiral-matrix](https://github.com/abhijit1859/DSA-Arena/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/abhijit1859/DSA-Arena/tree/master/0055-jump-game) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/abhijit1859/DSA-Arena/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/abhijit1859/DSA-Arena/tree/master/0090-subsets-ii) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/abhijit1859/DSA-Arena/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/abhijit1859/DSA-Arena/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/abhijit1859/DSA-Arena/tree/master/0682-baseball-game) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/abhijit1859/DSA-Arena/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -305,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/abhijit1859/DSA-Arena/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/abhijit1859/DSA-Arena/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->

@@ -1,38 +1,33 @@
 class Solution {
     public boolean search(int[] nums, int target) {
-        return search2(nums,target);
+        return find(nums,target);
     }
 
-    private static boolean search2(int[] arr,int target){
-        int low = 0;
-        int high = arr.length-1;
+    private static boolean find(int[] arr,int target){
+        int low=0;
+        int high=arr.length-1;
         while(low<=high){
-            int mid = (low+high)/2;
+            int mid=low+(high-low)/2;
             if(arr[mid]==target){
                 return true;
             }
+            // if(arr[low]==arr[mid]&&arr[high]==arr[mid]){
 
-            if(arr[mid]==arr[low]&&arr[mid]==arr[high]){
-                low++;
-                high--;
-                continue;
-            }
-
-            if(arr[mid]>=arr[low]){
-                //search for left side
-                if(arr[low]<=target&&arr[mid]>=target){
+            // }
+            if(arr[low]<=arr[mid]){
+                if(target>=arr[low]&&target<arr[mid]){
                     high=mid-1;
-                }else{ 
+                }else{
                     low=mid+1;
-                } 
-                
-            }else if(arr[mid]<=arr[high]){
-                if(arr[mid]<=target&&arr[high]>=target){
+                }
+            }else{
+                if(target>arr[mid]&&target<=arr[high]){
                     low=mid+1;
                 }else{
                     high=mid-1;
                 }
             }
+
         }
         return false;
     }

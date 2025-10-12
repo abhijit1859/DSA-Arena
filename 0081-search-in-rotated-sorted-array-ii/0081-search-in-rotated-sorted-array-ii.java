@@ -11,9 +11,11 @@ class Solution {
             if(arr[mid]==target){
                 return true;
             }
-            // if(arr[low]==arr[mid]&&arr[high]==arr[mid]){
-
-            // }
+            if(arr[low]==arr[mid]&&arr[high]==arr[mid]){
+                low++;
+                high--;
+                continue;
+            }
             if(arr[low]<=arr[mid]){
                 if(target>=arr[low]&&target<arr[mid]){
                     high=mid-1;

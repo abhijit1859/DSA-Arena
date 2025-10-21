@@ -1,27 +1,22 @@
 class Solution {
     public int singleNonDuplicate(int[] nums) {
-        int ans = search(nums,0,nums.length-1);
-        System.out.println(ans);
-        return ans;
+        return find(nums);
     }
 
-    private static int search(int[] arr,int left,int right){
-        if(left>right){
-            return -1;
-        }
-        int mid =  (left+right)/2;
-     
-        //System.out.println(arr[mid]);
-        if ((mid == 0 || arr[mid] != arr[mid - 1]) && 
-            (mid == arr.length - 1 || arr[mid] != arr[mid + 1])) {
-                
-        return arr[mid];// This is the unique element
+    private static int find(int[] arr){
+        int left=0;
+        int right=arr.length;
+        while(left<right){
+            int mid = left+(right-left)/2;
+
+            if(mid%2==1) mid--;
+            if(arr[mid]==arr[mid+1]){
+                left=mid+2;
+            }else{
+                right=mid;
+            }
         }
 
-        int leftans = search(arr,left,mid-1);
-        if(leftans!=-1) return leftans;
-      
-        
-        return search(arr,mid+1,right);
+        return arr[left];
     }
 }

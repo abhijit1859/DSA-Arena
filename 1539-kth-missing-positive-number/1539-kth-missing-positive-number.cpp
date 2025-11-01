@@ -3,7 +3,7 @@ public:
     int findKthPositive(vector<int>& nums, int k) {
         int N = nums.size();       
         int st = 0;
-        int ans = N+k;
+        int ans = N;
         int end = N-1;
 
         while(st<=end){
@@ -17,11 +17,6 @@ public:
                 st = mid+1;
             }
         }
-
-        if(ans == N+k){
-            return ans;
-        }else{
-            return ans+k;
-        }
+        return ans+k;
     }
 };

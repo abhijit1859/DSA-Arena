@@ -7,7 +7,7 @@ class Solution {
         
         for(int i=0;i<arr.length;i++){
             int missing = arr[i]-(i+1);
-            if(missing>=5){
+            if(missing>=k){
                 return k+i;
             }
         }

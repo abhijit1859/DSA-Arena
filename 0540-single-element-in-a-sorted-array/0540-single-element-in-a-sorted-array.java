@@ -5,7 +5,7 @@ class Solution {
 
     private static int find(int[] arr){
         int left=0;
-        int right=arr.length;
+        int right=arr.length-1;
         while(left<right){
             int mid = left+(right-left)/2;
 

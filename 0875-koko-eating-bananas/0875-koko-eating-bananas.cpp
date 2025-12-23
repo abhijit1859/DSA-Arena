@@ -29,15 +29,7 @@ public:
             // ceil division ensures leftover bananas count as a full hour
             hours += (banana + speed - 1) / speed;
         }
-        return hours <= h;                   // Koko can finish within h hours
+        return hours <= h;                   
     }
 };
 
-// Example usage
-int main() {
-    Solution sol;
-    vector<int> piles = {3, 6, 7, 11};
-    int h = 8;
-    cout << sol.minEatingSpeed(piles, h) << endl; // Output: 4
-    return 0;
-}

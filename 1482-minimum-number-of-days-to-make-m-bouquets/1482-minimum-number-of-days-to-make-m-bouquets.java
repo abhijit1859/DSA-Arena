@@ -21,7 +21,7 @@ class Solution {
     }
 
     private static int find(int[] bloomDay,int m,int k){
-        int start=0;
+        int start=1;
         int end=-1;
         for(int day:bloomDay){
             if(day>=end){

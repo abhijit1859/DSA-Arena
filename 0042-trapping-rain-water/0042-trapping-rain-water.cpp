@@ -1,7 +1,7 @@
 class Solution {
 public:
     int trap(vector<int>& height) {
-        int =height.size();
+        int n=height.size();
         vector<int> leftMax(n),rightMax(n);
 
         for(int i=1;i<n;i++){

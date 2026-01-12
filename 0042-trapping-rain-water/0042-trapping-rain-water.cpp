@@ -11,6 +11,7 @@ public:
             rightMax[i]=max(height[i+1],rightMax[i+1]);
         }
         
+    
         int ans=0;
         for(int i=0;i<n;i++){
             int waterLevel=min(leftMax[i],rightMax[i])-height[i];

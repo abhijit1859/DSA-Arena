@@ -13,7 +13,7 @@ public:
             }
         }
         int n=bloomDay.size();
-        if(n<(m*k)){
+        if((long long)m*k>n ){
             return -1;
         }
         

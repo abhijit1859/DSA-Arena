@@ -4,19 +4,19 @@ using namespace std;
 class Solution {
 public:
     int minEatingSpeed(vector<int>& piles, int h) {
-        sort(piles.begin(), piles.end());   // optional, can remove
+        sort(piles.begin(), piles.end());   
         int n = piles.size();
-        int low = 1;                        // cannot be 0
+        int low = 1;                        
         int high = piles[n-1];
         int ans = high;
 
-        while(low <= high){                 // include equality to check final speed
+        while(low <= high){                
             int mid = low + (high - low)/2;
             if(canEat(mid, piles, h)){
-                ans = mid;                  // store current mid as possible answer
-                high = mid - 1;             // try smaller speed
+                ans = mid;                  
+                high = mid - 1;             
             } else {
-                low = mid + 1;              // need higher speed
+                low = mid + 1;           
             }
         }
 
@@ -24,10 +24,12 @@ public:
     }
 
     bool canEat(int speed, vector<int> piles, int h){
-        long long hours = 0;                 // use long long for large numbers
+        long long hours = 0;                 
         for(auto banana : piles){
-            // ceil division ensures leftover bananas count as a full hour
-            hours += (banana + speed - 1) / speed;
+           
+           int div=banana/speed;
+           hours+=div;
+           if(banana%speed!=0) hours++;
         }
         return hours <= h;                   
     }

@@ -7,12 +7,13 @@ public:
             for(int j=i;j<s.length();j++){
                 mp[s[j]]++;
                 int least=INT_MAX;
-                int freq=INT_MIN;
+                int most=INT_MIN;
                 for(auto it:mp){
                     least=min(least,it.second);
-                    freq=max(freq,it.second);
+                    most=max(most,it.second);
+
                 }
-                ans+=freq-least;
+                ans+=most-least;
             }
         }
 

@@ -2,8 +2,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/abhijit1859/DSA-Arena/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/abhijit1859/DSA-Arena/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/abhijit1859/DSA-Arena/tree/master/0027-remove-element) |
@@ -43,14 +43,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhijit1859/DSA-Arena/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/abhijit1859/DSA-Arena/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/abhijit1859/DSA-Arena/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhijit1859/DSA-Arena/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/abhijit1859/DSA-Arena/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhijit1859/DSA-Arena/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/abhijit1859/DSA-Arena/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/abhijit1859/DSA-Arena/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/abhijit1859/DSA-Arena/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0205-isomorphic-strings](https://github.com/abhijit1859/DSA-Arena/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/abhijit1859/DSA-Arena/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhijit1859/DSA-Arena/tree/master/0387-first-unique-character-in-a-string) |
@@ -64,8 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhijit1859/DSA-Arena/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/abhijit1859/DSA-Arena/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/abhijit1859/DSA-Arena/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/abhijit1859/DSA-Arena/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/abhijit1859/DSA-Arena/tree/master/0713-subarray-product-less-than-k) |
@@ -73,13 +74,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/abhijit1859/DSA-Arena/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/abhijit1859/DSA-Arena/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhijit1859/DSA-Arena/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/abhijit1859/DSA-Arena/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/abhijit1859/DSA-Arena/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abhijit1859/DSA-Arena/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/abhijit1859/DSA-Arena/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhijit1859/DSA-Arena/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhijit1859/DSA-Arena/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/abhijit1859/DSA-Arena/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/abhijit1859/DSA-Arena/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/abhijit1859/DSA-Arena/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0344-reverse-string](https://github.com/abhijit1859/DSA-Arena/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/abhijit1859/DSA-Arena/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/abhijit1859/DSA-Arena/tree/master/0455-assign-cookies) |
@@ -96,8 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/abhijit1859/DSA-Arena/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/abhijit1859/DSA-Arena/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhijit1859/DSA-Arena/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhijit1859/DSA-Arena/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/abhijit1859/DSA-Arena/tree/master/0069-sqrtx) |
@@ -112,8 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/abhijit1859/DSA-Arena/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/abhijit1859/DSA-Arena/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0013-roman-to-integer](https://github.com/abhijit1859/DSA-Arena/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/abhijit1859/DSA-Arena/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/abhijit1859/DSA-Arena/tree/master/0062-unique-paths) |
@@ -126,15 +129,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/abhijit1859/DSA-Arena/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/abhijit1859/DSA-Arena/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0090-subsets-ii](https://github.com/abhijit1859/DSA-Arena/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/abhijit1859/DSA-Arena/tree/master/0231-power-of-two) |
 | [0800-letter-case-permutation](https://github.com/abhijit1859/DSA-Arena/tree/master/0800-letter-case-permutation) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/abhijit1859/DSA-Arena/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhijit1859/DSA-Arena/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/abhijit1859/DSA-Arena/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/abhijit1859/DSA-Arena/tree/master/0008-string-to-integer-atoi) |
@@ -168,30 +171,30 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-determine-if-string-halves-are-alike](https://github.com/abhijit1859/DSA-Arena/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/abhijit1859/DSA-Arena/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0050-powx-n](https://github.com/abhijit1859/DSA-Arena/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/abhijit1859/DSA-Arena/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/abhijit1859/DSA-Arena/tree/master/1013-fibonacci-number) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/abhijit1859/DSA-Arena/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0054-spiral-matrix](https://github.com/abhijit1859/DSA-Arena/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/abhijit1859/DSA-Arena/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/abhijit1859/DSA-Arena/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/abhijit1859/DSA-Arena/tree/master/0682-baseball-game) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/abhijit1859/DSA-Arena/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/abhijit1859/DSA-Arena/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/abhijit1859/DSA-Arena/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/abhijit1859/DSA-Arena/tree/master/0455-assign-cookies) |
 | [0917-boats-to-save-people](https://github.com/abhijit1859/DSA-Arena/tree/master/0917-boats-to-save-people) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0047-permutations-ii](https://github.com/abhijit1859/DSA-Arena/tree/master/0047-permutations-ii) |
 | [0242-valid-anagram](https://github.com/abhijit1859/DSA-Arena/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/abhijit1859/DSA-Arena/tree/master/0451-sort-characters-by-frequency) |
@@ -200,8 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/abhijit1859/DSA-Arena/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/abhijit1859/DSA-Arena/tree/master/1019-squares-of-a-sorted-array) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhijit1859/DSA-Arena/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/abhijit1859/DSA-Arena/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhijit1859/DSA-Arena/tree/master/0209-minimum-size-subarray-sum) |
@@ -213,42 +216,42 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/abhijit1859/DSA-Arena/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhijit1859/DSA-Arena/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhijit1859/DSA-Arena/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/abhijit1859/DSA-Arena/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/abhijit1859/DSA-Arena/tree/master/0812-rotate-string) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/abhijit1859/DSA-Arena/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/abhijit1859/DSA-Arena/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/abhijit1859/DSA-Arena/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/abhijit1859/DSA-Arena/tree/master/0451-sort-characters-by-frequency) |
 | [1034-subarrays-with-k-different-integers](https://github.com/abhijit1859/DSA-Arena/tree/master/1034-subarrays-with-k-different-integers) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/abhijit1859/DSA-Arena/tree/master/1823-determine-if-string-halves-are-alike) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/abhijit1859/DSA-Arena/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/abhijit1859/DSA-Arena/tree/master/0014-longest-common-prefix) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/abhijit1859/DSA-Arena/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhijit1859/DSA-Arena/tree/master/0094-binary-tree-inorder-traversal) |
 | [0682-baseball-game](https://github.com/abhijit1859/DSA-Arena/tree/master/0682-baseball-game) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/abhijit1859/DSA-Arena/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/abhijit1859/DSA-Arena/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhijit1859/DSA-Arena/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/abhijit1859/DSA-Arena/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/abhijit1859/DSA-Arena/tree/master/0046-permutations) |
@@ -257,42 +260,42 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/abhijit1859/DSA-Arena/tree/master/0093-restore-ip-addresses) |
 | [0800-letter-case-permutation](https://github.com/abhijit1859/DSA-Arena/tree/master/0800-letter-case-permutation) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/abhijit1859/DSA-Arena/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/abhijit1859/DSA-Arena/tree/master/0387-first-unique-character-in-a-string) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhijit1859/DSA-Arena/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhijit1859/DSA-Arena/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/abhijit1859/DSA-Arena/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/abhijit1859/DSA-Arena/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhijit1859/DSA-Arena/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhijit1859/DSA-Arena/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/abhijit1859/DSA-Arena/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/abhijit1859/DSA-Arena/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhijit1859/DSA-Arena/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhijit1859/DSA-Arena/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/abhijit1859/DSA-Arena/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/abhijit1859/DSA-Arena/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhijit1859/DSA-Arena/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/abhijit1859/DSA-Arena/tree/master/0322-coin-change) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abhijit1859/DSA-Arena/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/abhijit1859/DSA-Arena/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/abhijit1859/DSA-Arena/tree/master/0062-unique-paths) |
@@ -303,17 +306,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/abhijit1859/DSA-Arena/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/abhijit1859/DSA-Arena/tree/master/1250-longest-common-subsequence) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0070-climbing-stairs](https://github.com/abhijit1859/DSA-Arena/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/abhijit1859/DSA-Arena/tree/master/1013-fibonacci-number) |
 ## Combinatorics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0062-unique-paths](https://github.com/abhijit1859/DSA-Arena/tree/master/0062-unique-paths) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0054-spiral-matrix](https://github.com/abhijit1859/DSA-Arena/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/abhijit1859/DSA-Arena/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->

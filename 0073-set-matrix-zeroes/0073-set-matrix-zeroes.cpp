@@ -5,17 +5,17 @@ public:
         vector<int> cols(matrix[0].size(),0);
 
         for(int i=0;i<matrix.size();i++){
-            for(int j=0;j<matrix[0].size();i++){
+            for(int j=0;j<matrix[i].size();j++){
                 if(matrix[i][j]==0){
                     rows[i]=1;
-                    cols[i]=1;
+                    cols[j]=1;
                 }
             }
         }
 
         for(int i=0;i<matrix.size();i++){
-            for(int j=0;j<matrix[0].size();i++){
-                if(rows[i]||cols[i]){
+            for(int j=0;j<matrix[i].size();j++){
+                if(rows[i]||cols[j]){
                     matrix[i][j]=0;
                 }
             }

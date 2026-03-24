@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/abhijit1859/DSA-Arena/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/abhijit1859/DSA-Arena/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/abhijit1859/DSA-Arena/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/abhijit1859/DSA-Arena/tree/main/0901-online-stock-span/) | Medium |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/abhijit1859/DSA-Arena/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/abhijit1859/DSA-Arena/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
@@ -339,10 +340,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/abhijit1859/DSA-Arena/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/abhijit1859/DSA-Arena/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/abhijit1859/DSA-Arena/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/abhijit1859/DSA-Arena/tree/main/0901-online-stock-span/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0584-find-customer-referee](https://github.com/abhijit1859/DSA-Arena/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/abhijit1859/DSA-Arena/tree/main/0595-big-countries/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/abhijit1859/DSA-Arena/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/abhijit1859/DSA-Arena/tree/main/0901-online-stock-span/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/abhijit1859/DSA-Arena/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->

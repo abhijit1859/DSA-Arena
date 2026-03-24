@@ -1,22 +1,18 @@
 class Solution {
 public:
-    vector<int> dailyTemperatures(vector<int>& temp) {
-        //basically we have to find next greater so we can use monotonic stack concept
-        int n=temp.size();
-        vector<int> result(n,0);
+    vector<int> dailyTemperatures(vector<int>& temperatures) {
+        int n=temperatures.size();
         stack<int> st;
-        int day=0;
+        vector<int> result(n,0);
         for(int i=0;i<n;i++){
-            while(!st.empty()&&temp[st.top()]<temp[i]){
-                int prev=st.top();
+            while(!st.empty()&&temperatures[i]>temperatures[st.top()]){
+                int diff=i-st.top();
+                result[st.top()]=diff;
                 st.pop();
-                int diff=i-prev;
-                result[prev]=diff;
-               
             }
             st.push(i);
-          
         }
+
         return result;
     }
 };

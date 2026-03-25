@@ -21,7 +21,7 @@ public:
             right[i]=st.empty()?n-i:st.top()-i;
             st.push(i);
         }
-        long long MOD=10e9+7;
+        long long MOD=1e9+7;
         long long ans=0;
         for(int i=0;i<n;i++){
             ans=(ans+(long long)arr[i]*left[i]*right[i])%MOD;

@@ -1,5 +1,7 @@
 class Solution {
 public:
+    class Solution {
+public:
     vector<int> dailyTemperatures(vector<int>& temperatures) {
         int n=temperatures.size();
         stack<int> st;
@@ -15,4 +17,4 @@ public:
 
         return result;
     }
-};
+};;

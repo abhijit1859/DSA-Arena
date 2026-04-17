@@ -1,37 +1,31 @@
-#include <bits/stdc++.h>
-using namespace std;
-
 class Solution {
 public:
     int minEatingSpeed(vector<int>& piles, int h) {
-        sort(piles.begin(), piles.end());   
-        int n = piles.size();
-        int low = 1;                        
-        int high = piles[n-1];
-        int ans = high;
+        int low=1;
+        int high=0;
+        for(int pile:piles){
+            high=max(high,pile);
+        }
 
-        while(low <= high){                
-            int mid = low + (high - low)/2;
-            if(canEat(mid, piles, h)){
-                ans = mid;                  
-                high = mid - 1;             
-            } else {
-                low = mid + 1;           
+        while(low<=high){
+            int mid=(high-low)/2+low;
+            if(canEat(piles,h,mid)){
+                high=mid-1;
+            }else{
+                low=mid+1;
             }
         }
+        return low;
 
-        return ans;
     }
 
-    bool canEat(int speed, vector<int> piles, int h){
-        long long hours = 0;                 
-        for(auto banana : piles){
-           
-           int div=banana/speed;
-           hours+=div;
-           if(banana%speed!=0) hours++;
+    bool canEat(vector<int> &piles,int h,int speed){
+        int time=0;
+        for(int pile:piles){
+            time+=(pile+speed-1)/speed;
+            if(time>h) return false;
         }
-        return hours <= h;                   
+        return true;
+
     }
 };
-

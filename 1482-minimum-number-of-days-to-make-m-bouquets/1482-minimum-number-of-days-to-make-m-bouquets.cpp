@@ -1,44 +1,34 @@
 class Solution {
 public:
     int minDays(vector<int>& bloomDay, int m, int k) {
-    
-        int low=INT_MAX;
-        int high=INT_MIN;
-        for(auto days:bloomDay){
-            if(days<low){
-                low=days;
-            }
-            if(days>high){
-                high=days;
-            }
-        }
-        int n=bloomDay.size();
-        if((long long)m*k>n ){
+        if(m*k>bloomDay.size()){
             return -1;
         }
-        
-        int ans=high;
+        int low=1;
+        int high=0;
+        for(int day:bloomDay){
+            high=max(high,day);
+        }
+
         while(low<=high){
             int mid=(high-low)/2+low;
-
-            if(canBloom(mid,m,k,bloomDay)){
-                ans=mid;
+            if(bloom(bloomDay,m,k,mid)){
                 high=mid-1;
             }else{
                 low=mid+1;
             }
-
+          
         }
 
-        return ans;
-        
+        return low;
+
     }
 
-    bool canBloom(int days,int m,int k,vector<int> arr){
+    bool bloom(vector<int>& bloomDay,int m,int k,int day){
         int c=0;
         int bq=0;
-        for(int i=0;i<arr.size();i++){
-            if(arr[i]<=days){
+        for(int i=0;i<bloomDay.size();i++){
+            if(bloomDay[i]<=day){
                 c++;
             }else{
                 c=0;
@@ -50,10 +40,8 @@ public:
                     return true;
                 }
             }
-            
-        }
 
+        }
         return false;
-        
     }
 };

@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/abhijit1859/DSA-Arena/tree/master/0907-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/abhijit1859/DSA-Arena/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0917-boats-to-save-people](https://github.com/abhijit1859/DSA-Arena/tree/master/0917-boats-to-save-people) |
+| [0930-binary-subarrays-with-sum](https://github.com/abhijit1859/DSA-Arena/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0941-sort-array-by-parity](https://github.com/abhijit1859/DSA-Arena/tree/master/0941-sort-array-by-parity) |
 | [0966-binary-subarrays-with-sum](https://github.com/abhijit1859/DSA-Arena/tree/master/0966-binary-subarrays-with-sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/abhijit1859/DSA-Arena/tree/master/1019-squares-of-a-sorted-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/abhijit1859/DSA-Arena/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/abhijit1859/DSA-Arena/tree/master/0560-subarray-sum-equals-k) |
 | [0889-buddy-strings](https://github.com/abhijit1859/DSA-Arena/tree/master/0889-buddy-strings) |
+| [0930-binary-subarrays-with-sum](https://github.com/abhijit1859/DSA-Arena/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0966-binary-subarrays-with-sum](https://github.com/abhijit1859/DSA-Arena/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/abhijit1859/DSA-Arena/tree/master/1034-subarrays-with-k-different-integers) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/abhijit1859/DSA-Arena/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/abhijit1859/DSA-Arena/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/abhijit1859/DSA-Arena/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/abhijit1859/DSA-Arena/tree/master/0713-subarray-product-less-than-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/abhijit1859/DSA-Arena/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0966-binary-subarrays-with-sum](https://github.com/abhijit1859/DSA-Arena/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhijit1859/DSA-Arena/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/abhijit1859/DSA-Arena/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/abhijit1859/DSA-Arena/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/abhijit1859/DSA-Arena/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/abhijit1859/DSA-Arena/tree/master/0713-subarray-product-less-than-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/abhijit1859/DSA-Arena/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0966-binary-subarrays-with-sum](https://github.com/abhijit1859/DSA-Arena/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/abhijit1859/DSA-Arena/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhijit1859/DSA-Arena/tree/master/1046-max-consecutive-ones-iii) |

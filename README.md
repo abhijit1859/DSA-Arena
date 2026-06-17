@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/abhijit1859/DSA-Arena/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhijit1859/DSA-Arena/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0207-course-schedule](https://github.com/abhijit1859/DSA-Arena/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/abhijit1859/DSA-Arena/tree/main/0210-course-schedule-ii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/abhijit1859/DSA-Arena/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/abhijit1859/DSA-Arena/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhijit1859/DSA-Arena/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/abhijit1859/DSA-Arena/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/abhijit1859/DSA-Arena/tree/main/0210-course-schedule-ii/) | Medium |
 | [0322-coin-change](https://github.com/abhijit1859/DSA-Arena/tree/master/0322-coin-change) |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -409,8 +411,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/abhijit1859/DSA-Arena/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/abhijit1859/DSA-Arena/tree/main/0210-course-schedule-ii/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/abhijit1859/DSA-Arena/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/abhijit1859/DSA-Arena/tree/main/0210-course-schedule-ii/) | Medium |
 <!---LeetCode Topics End-->

@@ -5,7 +5,7 @@ public:
         vector<int> color(n,-1);
         for(int i=0;i<n;i++){
             if(color[i]==-1){
-                if(!bfs(i,graph,color)){
+                if(!dfs(i,0,graph,color)){
                     return false;
                 }
             }
@@ -13,20 +13,15 @@ public:
         return true;
     }
 
-    bool bfs(int node,vector<vector<int>>& graph,vector<int> color){
-        queue<int> q;
-        q.push(node);
-        color[node]=1;
-        while(!q.empty()){
-            int curr=q.front();
-            q.pop();
-            for(auto neigh:graph[curr]){
-                if(color[neigh]==-1){
-                    color[neigh]=1-color[curr];
-                    q.push(neigh);
-                }else if(color[neigh]==color[curr]){
+    bool dfs(int node,int col,vector<vector<int>>& graph,vector<int>& color){
+        color[node]=col;
+        for(auto neigh:graph[node]){
+            if(color[neigh]==-1){
+                if(!dfs(neigh,1-col,graph,color)){
                     return false;
                 }
+            }else if(color[neigh]==color[node]){
+                return false;
             }
         }
         return true;

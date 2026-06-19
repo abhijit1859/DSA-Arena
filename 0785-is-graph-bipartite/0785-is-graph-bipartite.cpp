@@ -10,27 +10,25 @@ public:
                 }
             }
         }
-
         return true;
     }
 
-    bool bfs(int start,vector<vector<int>> &graph,vector<int> color){
+    bool bfs(int node,vector<vector<int>>& graph,vector<int> color){
         queue<int> q;
-        q.push(start);
-        color[start]=0;
+        q.push(node);
+        color[node]=1;
         while(!q.empty()){
-            int node=q.front();
+            int curr=q.front();
             q.pop();
-            for(int neigh:graph[node]){
+            for(auto neigh:graph[curr]){
                 if(color[neigh]==-1){
-                    color[neigh]=1-color[node];
+                    color[neigh]=1-color[curr];
                     q.push(neigh);
-                }else if(color[neigh]==color[node]){
+                }else if(color[neigh]==color[curr]){
                     return false;
                 }
             }
         }
-
         return true;
     }
 };

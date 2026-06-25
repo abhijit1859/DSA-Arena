@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/abhijit1859/DSA-Arena/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/abhijit1859/DSA-Arena/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/abhijit1859/DSA-Arena/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/abhijit1859/DSA-Arena/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/abhijit1859/DSA-Arena/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/abhijit1859/DSA-Arena/tree/main/0283-move-zeroes/) | Easy |
 | [0322-coin-change](https://github.com/abhijit1859/DSA-Arena/tree/master/0322-coin-change) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhijit1859/DSA-Arena/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/abhijit1859/DSA-Arena/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhijit1859/DSA-Arena/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0200-number-of-islands](https://github.com/abhijit1859/DSA-Arena/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/abhijit1859/DSA-Arena/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/abhijit1859/DSA-Arena/tree/main/0210-course-schedule-ii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/abhijit1859/DSA-Arena/tree/master/0543-diameter-of-binary-tree) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/abhijit1859/DSA-Arena/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhijit1859/DSA-Arena/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/abhijit1859/DSA-Arena/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/abhijit1859/DSA-Arena/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/abhijit1859/DSA-Arena/tree/main/0210-course-schedule-ii/) | Medium |
 | [0322-coin-change](https://github.com/abhijit1859/DSA-Arena/tree/master/0322-coin-change) |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/abhijit1859/DSA-Arena/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/abhijit1859/DSA-Arena/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0085-maximal-rectangle](https://github.com/abhijit1859/DSA-Arena/tree/main/0085-maximal-rectangle/) | Hard |
+| [0200-number-of-islands](https://github.com/abhijit1859/DSA-Arena/tree/main/0200-number-of-islands/) | Medium |
 | [0994-rotting-oranges](https://github.com/abhijit1859/DSA-Arena/tree/main/0994-rotting-oranges/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -452,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/abhijit1859/DSA-Arena/tree/main/0200-number-of-islands/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/abhijit1859/DSA-Arena/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/abhijit1859/DSA-Arena/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/abhijit1859/DSA-Arena/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |

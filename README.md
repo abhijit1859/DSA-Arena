@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/abhijit1859/DSA-Arena/tree/master/0451-sort-characters-by-frequency) |
+| [0743-network-delay-time](https://github.com/abhijit1859/DSA-Arena/tree/main/0743-network-delay-time/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/abhijit1859/DSA-Arena/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/abhijit1859/DSA-Arena/tree/main/0210-course-schedule-ii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/abhijit1859/DSA-Arena/tree/master/0543-diameter-of-binary-tree) |
+| [0743-network-delay-time](https://github.com/abhijit1859/DSA-Arena/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/abhijit1859/DSA-Arena/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/abhijit1859/DSA-Arena/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/abhijit1859/DSA-Arena/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/abhijit1859/DSA-Arena/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/abhijit1859/DSA-Arena/tree/main/0210-course-schedule-ii/) | Medium |
 | [0322-coin-change](https://github.com/abhijit1859/DSA-Arena/tree/master/0322-coin-change) |
+| [0743-network-delay-time](https://github.com/abhijit1859/DSA-Arena/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/abhijit1859/DSA-Arena/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0994-rotting-oranges](https://github.com/abhijit1859/DSA-Arena/tree/main/0994-rotting-oranges/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/abhijit1859/DSA-Arena/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/abhijit1859/DSA-Arena/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/abhijit1859/DSA-Arena/tree/main/0210-course-schedule-ii/) | Medium |
+| [0743-network-delay-time](https://github.com/abhijit1859/DSA-Arena/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/abhijit1859/DSA-Arena/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/abhijit1859/DSA-Arena/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/abhijit1859/DSA-Arena/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
@@ -472,4 +476,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/abhijit1859/DSA-Arena/tree/main/0493-reverse-pairs/) | Hard |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/abhijit1859/DSA-Arena/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->

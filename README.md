@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/abhijit1859/DSA-Arena/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0941-sort-array-by-parity](https://github.com/abhijit1859/DSA-Arena/tree/master/0941-sort-array-by-parity) |
 | [0966-binary-subarrays-with-sum](https://github.com/abhijit1859/DSA-Arena/tree/master/0966-binary-subarrays-with-sum) |
+| [0994-rotting-oranges](https://github.com/abhijit1859/DSA-Arena/tree/main/0994-rotting-oranges/) | Medium |
 | [1019-squares-of-a-sorted-array](https://github.com/abhijit1859/DSA-Arena/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/abhijit1859/DSA-Arena/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhijit1859/DSA-Arena/tree/master/1046-max-consecutive-ones-iii) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/abhijit1859/DSA-Arena/tree/main/0210-course-schedule-ii/) | Medium |
 | [0322-coin-change](https://github.com/abhijit1859/DSA-Arena/tree/master/0322-coin-change) |
 | [0785-is-graph-bipartite](https://github.com/abhijit1859/DSA-Arena/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0994-rotting-oranges](https://github.com/abhijit1859/DSA-Arena/tree/main/0994-rotting-oranges/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/abhijit1859/DSA-Arena/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/abhijit1859/DSA-Arena/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 ## Dynamic Programming
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/abhijit1859/DSA-Arena/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/abhijit1859/DSA-Arena/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0085-maximal-rectangle](https://github.com/abhijit1859/DSA-Arena/tree/main/0085-maximal-rectangle/) | Hard |
+| [0994-rotting-oranges](https://github.com/abhijit1859/DSA-Arena/tree/main/0994-rotting-oranges/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |

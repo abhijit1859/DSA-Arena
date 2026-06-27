@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/abhijit1859/DSA-Arena/tree/main/1470-shuffle-the-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/abhijit1859/DSA-Arena/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/abhijit1859/DSA-Arena/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1631-path-with-minimum-effort](https://github.com/abhijit1859/DSA-Arena/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/abhijit1859/DSA-Arena/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/abhijit1859/DSA-Arena/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/abhijit1859/DSA-Arena/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/abhijit1859/DSA-Arena/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/abhijit1859/DSA-Arena/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/abhijit1859/DSA-Arena/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/abhijit1859/DSA-Arena/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/abhijit1859/DSA-Arena/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/abhijit1859/DSA-Arena/tree/main/0743-network-delay-time/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/abhijit1859/DSA-Arena/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/abhijit1859/DSA-Arena/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/abhijit1859/DSA-Arena/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1361-validate-binary-tree-nodes](https://github.com/abhijit1859/DSA-Arena/tree/main/1361-validate-binary-tree-nodes/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/abhijit1859/DSA-Arena/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/abhijit1859/DSA-Arena/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -387,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/abhijit1859/DSA-Arena/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/abhijit1859/DSA-Arena/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1361-validate-binary-tree-nodes](https://github.com/abhijit1859/DSA-Arena/tree/main/1361-validate-binary-tree-nodes/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/abhijit1859/DSA-Arena/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/abhijit1859/DSA-Arena/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/abhijit1859/DSA-Arena/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 ## Dynamic Programming
@@ -425,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/abhijit1859/DSA-Arena/tree/main/0542-01-matrix/) | Medium |
 | [0994-rotting-oranges](https://github.com/abhijit1859/DSA-Arena/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/abhijit1859/DSA-Arena/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/abhijit1859/DSA-Arena/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/abhijit1859/DSA-Arena/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -475,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/abhijit1859/DSA-Arena/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/abhijit1859/DSA-Arena/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1361-validate-binary-tree-nodes](https://github.com/abhijit1859/DSA-Arena/tree/main/1361-validate-binary-tree-nodes/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/abhijit1859/DSA-Arena/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/abhijit1859/DSA-Arena/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |

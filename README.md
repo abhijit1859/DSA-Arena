@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhijit1859/DSA-Arena/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/abhijit1859/DSA-Arena/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/abhijit1859/DSA-Arena/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/abhijit1859/DSA-Arena/tree/main/0127-word-ladder/) | Hard |
 | [0141-linked-list-cycle](https://github.com/abhijit1859/DSA-Arena/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhijit1859/DSA-Arena/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/abhijit1859/DSA-Arena/tree/main/0169-majority-element/) | Easy |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/abhijit1859/DSA-Arena/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/abhijit1859/DSA-Arena/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/abhijit1859/DSA-Arena/tree/master/0093-restore-ip-addresses) |
+| [0127-word-ladder](https://github.com/abhijit1859/DSA-Arena/tree/main/0127-word-ladder/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/abhijit1859/DSA-Arena/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/abhijit1859/DSA-Arena/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/abhijit1859/DSA-Arena/tree/master/0242-valid-anagram) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/abhijit1859/DSA-Arena/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhijit1859/DSA-Arena/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/abhijit1859/DSA-Arena/tree/main/0127-word-ladder/) | Hard |
 | [0200-number-of-islands](https://github.com/abhijit1859/DSA-Arena/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/abhijit1859/DSA-Arena/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/abhijit1859/DSA-Arena/tree/main/0210-course-schedule-ii/) | Medium |

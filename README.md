@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/abhijit1859/DSA-Arena/tree/master/0966-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/abhijit1859/DSA-Arena/tree/main/0994-rotting-oranges/) | Medium |
 | [1019-squares-of-a-sorted-array](https://github.com/abhijit1859/DSA-Arena/tree/master/1019-squares-of-a-sorted-array) |
+| [1020-number-of-enclaves](https://github.com/abhijit1859/DSA-Arena/tree/main/1020-number-of-enclaves/) | Medium |
 | [1034-subarrays-with-k-different-integers](https://github.com/abhijit1859/DSA-Arena/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhijit1859/DSA-Arena/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/abhijit1859/DSA-Arena/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/abhijit1859/DSA-Arena/tree/master/0543-diameter-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/abhijit1859/DSA-Arena/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/abhijit1859/DSA-Arena/tree/main/0785-is-graph-bipartite/) | Medium |
+| [1020-number-of-enclaves](https://github.com/abhijit1859/DSA-Arena/tree/main/1020-number-of-enclaves/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/abhijit1859/DSA-Arena/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1361-validate-binary-tree-nodes](https://github.com/abhijit1859/DSA-Arena/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/abhijit1859/DSA-Arena/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/abhijit1859/DSA-Arena/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/abhijit1859/DSA-Arena/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0994-rotting-oranges](https://github.com/abhijit1859/DSA-Arena/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/abhijit1859/DSA-Arena/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/abhijit1859/DSA-Arena/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/abhijit1859/DSA-Arena/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1361-validate-binary-tree-nodes](https://github.com/abhijit1859/DSA-Arena/tree/main/1361-validate-binary-tree-nodes/) | Medium |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/abhijit1859/DSA-Arena/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/abhijit1859/DSA-Arena/tree/main/0542-01-matrix/) | Medium |
 | [0994-rotting-oranges](https://github.com/abhijit1859/DSA-Arena/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/abhijit1859/DSA-Arena/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/abhijit1859/DSA-Arena/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/abhijit1859/DSA-Arena/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/abhijit1859/DSA-Arena/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
@@ -482,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/abhijit1859/DSA-Arena/tree/main/0200-number-of-islands/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/abhijit1859/DSA-Arena/tree/main/0785-is-graph-bipartite/) | Medium |
+| [1020-number-of-enclaves](https://github.com/abhijit1859/DSA-Arena/tree/main/1020-number-of-enclaves/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/abhijit1859/DSA-Arena/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1361-validate-binary-tree-nodes](https://github.com/abhijit1859/DSA-Arena/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/abhijit1859/DSA-Arena/tree/main/1631-path-with-minimum-effort/) | Medium |

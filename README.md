@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/abhijit1859/DSA-Arena/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/abhijit1859/DSA-Arena/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/abhijit1859/DSA-Arena/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0078-subsets](https://github.com/abhijit1859/DSA-Arena/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/abhijit1859/DSA-Arena/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhijit1859/DSA-Arena/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/abhijit1859/DSA-Arena/tree/main/0085-maximal-rectangle/) | Hard |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/abhijit1859/DSA-Arena/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/abhijit1859/DSA-Arena/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/abhijit1859/DSA-Arena/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/abhijit1859/DSA-Arena/tree/master/0231-power-of-two) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/abhijit1859/DSA-Arena/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/abhijit1859/DSA-Arena/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/abhijit1859/DSA-Arena/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/abhijit1859/DSA-Arena/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/abhijit1859/DSA-Arena/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/abhijit1859/DSA-Arena/tree/master/0093-restore-ip-addresses) |
 | [0800-letter-case-permutation](https://github.com/abhijit1859/DSA-Arena/tree/master/0800-letter-case-permutation) |

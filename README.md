@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/abhijit1859/DSA-Arena/tree/master/0231-power-of-two) |
 | [0800-letter-case-permutation](https://github.com/abhijit1859/DSA-Arena/tree/master/0800-letter-case-permutation) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/abhijit1859/DSA-Arena/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/abhijit1859/DSA-Arena/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |

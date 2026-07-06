@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/abhijit1859/DSA-Arena/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/abhijit1859/DSA-Arena/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhijit1859/DSA-Arena/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/abhijit1859/DSA-Arena/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/abhijit1859/DSA-Arena/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/abhijit1859/DSA-Arena/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/abhijit1859/DSA-Arena/tree/main/0496-next-greater-element-i/) | Easy |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/abhijit1859/DSA-Arena/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/abhijit1859/DSA-Arena/tree/main/0402-remove-k-digits/) | Medium |
 | [0412-fizz-buzz](https://github.com/abhijit1859/DSA-Arena/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/abhijit1859/DSA-Arena/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0443-string-compression](https://github.com/abhijit1859/DSA-Arena/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/abhijit1859/DSA-Arena/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/abhijit1859/DSA-Arena/tree/master/0459-repeated-substring-pattern) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhijit1859/DSA-Arena/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/abhijit1859/DSA-Arena/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhijit1859/DSA-Arena/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/abhijit1859/DSA-Arena/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/abhijit1859/DSA-Arena/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/abhijit1859/DSA-Arena/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/abhijit1859/DSA-Arena/tree/main/0904-fruit-into-baskets/) | Medium |

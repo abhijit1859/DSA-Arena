@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/abhijit1859/DSA-Arena/tree/main/0739-daily-temperatures/) | Medium |
 | [0747-min-cost-climbing-stairs](https://github.com/abhijit1859/DSA-Arena/tree/master/0747-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/abhijit1859/DSA-Arena/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/abhijit1859/DSA-Arena/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0907-koko-eating-bananas](https://github.com/abhijit1859/DSA-Arena/tree/master/0907-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/abhijit1859/DSA-Arena/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0917-boats-to-save-people](https://github.com/abhijit1859/DSA-Arena/tree/master/0917-boats-to-save-people) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/abhijit1859/DSA-Arena/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/abhijit1859/DSA-Arena/tree/master/0560-subarray-sum-equals-k) |
 | [0889-buddy-strings](https://github.com/abhijit1859/DSA-Arena/tree/master/0889-buddy-strings) |
+| [0904-fruit-into-baskets](https://github.com/abhijit1859/DSA-Arena/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/abhijit1859/DSA-Arena/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0966-binary-subarrays-with-sum](https://github.com/abhijit1859/DSA-Arena/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/abhijit1859/DSA-Arena/tree/master/1034-subarrays-with-k-different-integers) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/abhijit1859/DSA-Arena/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/abhijit1859/DSA-Arena/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/abhijit1859/DSA-Arena/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/abhijit1859/DSA-Arena/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/abhijit1859/DSA-Arena/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0966-binary-subarrays-with-sum](https://github.com/abhijit1859/DSA-Arena/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/abhijit1859/DSA-Arena/tree/master/1034-subarrays-with-k-different-integers) |

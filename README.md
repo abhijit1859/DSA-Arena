@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/abhijit1859/DSA-Arena/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/abhijit1859/DSA-Arena/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/abhijit1859/DSA-Arena/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1901-find-a-peak-element-ii](https://github.com/abhijit1859/DSA-Arena/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/abhijit1859/DSA-Arena/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1929-concatenation-of-array](https://github.com/abhijit1859/DSA-Arena/tree/main/1929-concatenation-of-array/) | Easy |
 | [2090-k-radius-subarray-averages](https://github.com/abhijit1859/DSA-Arena/tree/main/2090-k-radius-subarray-averages/) | Medium |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/abhijit1859/DSA-Arena/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/abhijit1859/DSA-Arena/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/abhijit1859/DSA-Arena/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1901-find-a-peak-element-ii](https://github.com/abhijit1859/DSA-Arena/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/abhijit1859/DSA-Arena/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/abhijit1859/DSA-Arena/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/abhijit1859/DSA-Arena/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1901-find-a-peak-element-ii](https://github.com/abhijit1859/DSA-Arena/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/abhijit1859/DSA-Arena/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |

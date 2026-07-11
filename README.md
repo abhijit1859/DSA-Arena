@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-k-radius-subarray-averages](https://github.com/abhijit1859/DSA-Arena/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhijit1859/DSA-Arena/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhijit1859/DSA-Arena/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2706-buy-two-chocolates](https://github.com/abhijit1859/DSA-Arena/tree/main/2706-buy-two-chocolates/) | Easy |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/abhijit1859/DSA-Arena/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/abhijit1859/DSA-Arena/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/abhijit1859/DSA-Arena/tree/main/0860-lemonade-change/) | Easy |
 | [0917-boats-to-save-people](https://github.com/abhijit1859/DSA-Arena/tree/master/0917-boats-to-save-people) |
+| [2706-buy-two-chocolates](https://github.com/abhijit1859/DSA-Arena/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/abhijit1859/DSA-Arena/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/abhijit1859/DSA-Arena/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/abhijit1859/DSA-Arena/tree/master/1019-squares-of-a-sorted-array) |
+| [2706-buy-two-chocolates](https://github.com/abhijit1859/DSA-Arena/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |

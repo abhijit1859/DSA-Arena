@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/abhijit1859/DSA-Arena/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/abhijit1859/DSA-Arena/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/abhijit1859/DSA-Arena/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1642-furthest-building-you-can-reach](https://github.com/abhijit1859/DSA-Arena/tree/main/1642-furthest-building-you-can-reach/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/abhijit1859/DSA-Arena/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/abhijit1859/DSA-Arena/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1901-find-a-peak-element-ii](https://github.com/abhijit1859/DSA-Arena/tree/main/1901-find-a-peak-element-ii/) | Medium |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/abhijit1859/DSA-Arena/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/abhijit1859/DSA-Arena/tree/main/0860-lemonade-change/) | Easy |
 | [0917-boats-to-save-people](https://github.com/abhijit1859/DSA-Arena/tree/master/0917-boats-to-save-people) |
+| [1642-furthest-building-you-can-reach](https://github.com/abhijit1859/DSA-Arena/tree/main/1642-furthest-building-you-can-reach/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/abhijit1859/DSA-Arena/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/abhijit1859/DSA-Arena/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/abhijit1859/DSA-Arena/tree/main/0743-network-delay-time/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/abhijit1859/DSA-Arena/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1642-furthest-building-you-can-reach](https://github.com/abhijit1859/DSA-Arena/tree/main/1642-furthest-building-you-can-reach/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |

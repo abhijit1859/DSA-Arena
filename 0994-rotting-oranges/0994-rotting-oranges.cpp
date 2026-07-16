@@ -1,49 +1,48 @@
 class Solution {
 public:
     int orangesRotting(vector<vector<int>>& grid) {
-        queue<pair<int, int>> q;
-        int n = grid.size();
-        int m = grid[0].size();
-        int dr[] = {-1, 0, 1, 0};
-        int dc[]= {0, 1, 0, -1};
+        queue<pair<int,int>> q;
+        int rows=grid.size();
+        int cols=grid[0].size();
         int fresh=0;
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                if (grid[i][j] == 2) {
-                    q.push({i, j});
-                } else if (grid[i][j] == 1) {
+        for(int i=0;i<rows;i++){
+            for(int j=0;j<cols;j++){
+                if(grid[i][j]==1){
                     fresh++;
+                }else if(grid[i][j]==2){
+                    q.push({i,j});
                 }
             }
         }
-        if (fresh == 0)
-            return 0;
+
+        if (fresh==0) return 0;
+
         int minutes=0;
-
-        while (!q.empty()) {
-
-            int size = q.size();
-            bool rottenThisMinute = false;
-            for (int i = 0; i < size; i++) {
-
-                auto [r, c] = q.front();
+        vector<pair<int,int>> dir={
+            {-1,0},{1,0},{0,-1},{0,1}
+        };
+        while(!q.empty()){
+            int size=q.size();
+            int rottenThisMinute=false;
+            for(int i=0;i<size;i++){
+                auto [r,c]=q.front();
                 q.pop();
-                for (int k = 0; k < 4; k++) {
-                    int nr = r + dr[k];
-                    int nc = c + dc[k];
-                    if (nr >= 0 && nr < n && nc >= 0 && nc < m) {
-                        if (grid[nr][nc] == 1) {
-                            grid[nr][nc] = 2;
-                            q.push({nr, nc});
-                            fresh--;
-                            rottenThisMinute=true;
-                        }
+                for(auto [dr,dc]:dir){
+                    int nr=r+dr;
+                    int nc=c+dc;
+
+                    while(nr>=0&&nr<rows&&nc>=0&&nc<cols&&grid[nr][nc]==1){
+                        grid[nr][nc]=2;
+                        q.push({nr,nc});
+                        rottenThisMinute=true;
+                        fresh--;
                     }
                 }
             }
+
             if(rottenThisMinute) minutes++;
         }
-        if(fresh>0) return -1;
-        return minutes;
+
+        return (fresh==0) ? minutes:-1;
     }
 };

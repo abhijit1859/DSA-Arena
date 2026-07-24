@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/abhijit1859/DSA-Arena/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/abhijit1859/DSA-Arena/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/abhijit1859/DSA-Arena/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1206-design-skiplist](https://github.com/abhijit1859/DSA-Arena/tree/main/1206-design-skiplist/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/abhijit1859/DSA-Arena/tree/main/0901-online-stock-span/) | Medium |
+| [1206-design-skiplist](https://github.com/abhijit1859/DSA-Arena/tree/main/1206-design-skiplist/) | Hard |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |

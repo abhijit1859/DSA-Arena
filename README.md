@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/abhijit1859/DSA-Arena/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/abhijit1859/DSA-Arena/tree/master/1034-subarrays-with-k-different-integers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhijit1859/DSA-Arena/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/abhijit1859/DSA-Arena/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/abhijit1859/DSA-Arena/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhijit1859/DSA-Arena/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/abhijit1859/DSA-Arena/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/abhijit1859/DSA-Arena/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/abhijit1859/DSA-Arena/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/abhijit1859/DSA-Arena/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/abhijit1859/DSA-Arena/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1823-determine-if-string-halves-are-alike](https://github.com/abhijit1859/DSA-Arena/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/abhijit1859/DSA-Arena/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Recursion
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/abhijit1859/DSA-Arena/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/abhijit1859/DSA-Arena/tree/master/0451-sort-characters-by-frequency) |
 | [1034-subarrays-with-k-different-integers](https://github.com/abhijit1859/DSA-Arena/tree/master/1034-subarrays-with-k-different-integers) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/abhijit1859/DSA-Arena/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1823-determine-if-string-halves-are-alike](https://github.com/abhijit1859/DSA-Arena/tree/master/1823-determine-if-string-halves-are-alike) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/abhijit1859/DSA-Arena/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Trie

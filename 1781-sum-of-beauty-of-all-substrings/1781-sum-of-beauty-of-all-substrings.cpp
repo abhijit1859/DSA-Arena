@@ -1,22 +1,20 @@
 class Solution {
 public:
     int beautySum(string s) {
-        int ans=0;
+        int beauty=0;
         for(int i=0;i<s.length();i++){
             map<char,int> mp;
             for(int j=i;j<s.length();j++){
+                int mi=INT_MAX;
+                int ma=INT_MIN;
                 mp[s[j]]++;
-                int least=INT_MAX;
-                int most=INT_MIN;
                 for(auto it:mp){
-                    least=min(least,it.second);
-                    most=max(most,it.second);
-
+                    mi=min(mi,it.second);
+                    ma=max(ma,it.second);
                 }
-                ans+=most-least;
+                beauty+=ma-mi;
             }
         }
-
-        return ans;
+        return beauty;
     }
 };

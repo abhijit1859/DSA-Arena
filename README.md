@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/abhijit1859/DSA-Arena/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1929-concatenation-of-array](https://github.com/abhijit1859/DSA-Arena/tree/main/1929-concatenation-of-array/) | Easy |
 | [2090-k-radius-subarray-averages](https://github.com/abhijit1859/DSA-Arena/tree/main/2090-k-radius-subarray-averages/) | Medium |
+| [2097-valid-arrangement-of-pairs](https://github.com/abhijit1859/DSA-Arena/tree/main/2097-valid-arrangement-of-pairs/) | Hard |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhijit1859/DSA-Arena/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhijit1859/DSA-Arena/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2706-buy-two-chocolates](https://github.com/abhijit1859/DSA-Arena/tree/main/2706-buy-two-chocolates/) | Easy |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/abhijit1859/DSA-Arena/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1361-validate-binary-tree-nodes](https://github.com/abhijit1859/DSA-Arena/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/abhijit1859/DSA-Arena/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [2097-valid-arrangement-of-pairs](https://github.com/abhijit1859/DSA-Arena/tree/main/2097-valid-arrangement-of-pairs/) | Hard |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/abhijit1859/DSA-Arena/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/abhijit1859/DSA-Arena/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1361-validate-binary-tree-nodes](https://github.com/abhijit1859/DSA-Arena/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/abhijit1859/DSA-Arena/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+| [2097-valid-arrangement-of-pairs](https://github.com/abhijit1859/DSA-Arena/tree/main/2097-valid-arrangement-of-pairs/) | Hard |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/abhijit1859/DSA-Arena/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
@@ -624,4 +627,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/abhijit1859/DSA-Arena/tree/main/0399-evaluate-division/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/abhijit1859/DSA-Arena/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
+## Eulerian Circuit
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2097-valid-arrangement-of-pairs](https://github.com/abhijit1859/DSA-Arena/tree/main/2097-valid-arrangement-of-pairs/) | Hard |
+## Eulerian Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2097-valid-arrangement-of-pairs](https://github.com/abhijit1859/DSA-Arena/tree/main/2097-valid-arrangement-of-pairs/) | Hard |
+## Semi-Eulerian Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2097-valid-arrangement-of-pairs](https://github.com/abhijit1859/DSA-Arena/tree/main/2097-valid-arrangement-of-pairs/) | Hard |
 <!---LeetCode Topics End-->

@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/abhijit1859/DSA-Arena/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/abhijit1859/DSA-Arena/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/abhijit1859/DSA-Arena/tree/master/0520-detect-capital) |
+| [0753-cracking-the-safe](https://github.com/abhijit1859/DSA-Arena/tree/main/0753-cracking-the-safe/) | Hard |
 | [0800-letter-case-permutation](https://github.com/abhijit1859/DSA-Arena/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/abhijit1859/DSA-Arena/tree/master/0812-rotate-string) |
 | [0889-buddy-strings](https://github.com/abhijit1859/DSA-Arena/tree/master/0889-buddy-strings) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/abhijit1859/DSA-Arena/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/abhijit1859/DSA-Arena/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/abhijit1859/DSA-Arena/tree/main/0743-network-delay-time/) | Medium |
+| [0753-cracking-the-safe](https://github.com/abhijit1859/DSA-Arena/tree/main/0753-cracking-the-safe/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/abhijit1859/DSA-Arena/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/abhijit1859/DSA-Arena/tree/main/1020-number-of-enclaves/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/abhijit1859/DSA-Arena/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/abhijit1859/DSA-Arena/tree/main/0210-course-schedule-ii/) | Medium |
 | [0399-evaluate-division](https://github.com/abhijit1859/DSA-Arena/tree/main/0399-evaluate-division/) | Medium |
 | [0743-network-delay-time](https://github.com/abhijit1859/DSA-Arena/tree/main/0743-network-delay-time/) | Medium |
+| [0753-cracking-the-safe](https://github.com/abhijit1859/DSA-Arena/tree/main/0753-cracking-the-safe/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/abhijit1859/DSA-Arena/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/abhijit1859/DSA-Arena/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/abhijit1859/DSA-Arena/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
@@ -630,13 +633,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Eulerian Circuit
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0753-cracking-the-safe](https://github.com/abhijit1859/DSA-Arena/tree/main/0753-cracking-the-safe/) | Hard |
 | [2097-valid-arrangement-of-pairs](https://github.com/abhijit1859/DSA-Arena/tree/main/2097-valid-arrangement-of-pairs/) | Hard |
 ## Eulerian Path
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0753-cracking-the-safe](https://github.com/abhijit1859/DSA-Arena/tree/main/0753-cracking-the-safe/) | Hard |
 | [2097-valid-arrangement-of-pairs](https://github.com/abhijit1859/DSA-Arena/tree/main/2097-valid-arrangement-of-pairs/) | Hard |
 ## Semi-Eulerian Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2097-valid-arrangement-of-pairs](https://github.com/abhijit1859/DSA-Arena/tree/main/2097-valid-arrangement-of-pairs/) | Hard |
+## Eulerian Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0753-cracking-the-safe](https://github.com/abhijit1859/DSA-Arena/tree/main/0753-cracking-the-safe/) | Hard |
 <!---LeetCode Topics End-->

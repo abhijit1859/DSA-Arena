@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/abhijit1859/DSA-Arena/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/abhijit1859/DSA-Arena/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/abhijit1859/DSA-Arena/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/abhijit1859/DSA-Arena/tree/main/0217-contains-duplicate/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhijit1859/DSA-Arena/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/abhijit1859/DSA-Arena/tree/main/0283-move-zeroes/) | Easy |
 | [0322-coin-change](https://github.com/abhijit1859/DSA-Arena/tree/master/0322-coin-change) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/abhijit1859/DSA-Arena/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/abhijit1859/DSA-Arena/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/abhijit1859/DSA-Arena/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/abhijit1859/DSA-Arena/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/abhijit1859/DSA-Arena/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhijit1859/DSA-Arena/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhijit1859/DSA-Arena/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/abhijit1859/DSA-Arena/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/abhijit1859/DSA-Arena/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/abhijit1859/DSA-Arena/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/abhijit1859/DSA-Arena/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/abhijit1859/DSA-Arena/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/abhijit1859/DSA-Arena/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/abhijit1859/DSA-Arena/tree/master/0455-assign-cookies) |

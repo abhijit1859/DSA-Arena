@@ -7,9 +7,8 @@ public:
         int sum=0;
         for(int x:nums){
             sum+=x;
-            int need=sum-k;
-            if(mp.count(need)){
-                ans+=mp[need];
+            if(mp.contains(sum-k)){
+                ans+=mp[sum-k];
             }
             mp[sum]++;
         }

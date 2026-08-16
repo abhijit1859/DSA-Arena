@@ -2,31 +2,32 @@ class Solution {
 public:
     vector<vector<string>> result;
     vector<vector<string>> partition(string s) {
-        vector<string> temp;
-        checkMinimum(s, 0, temp);
+        vector<string> path;
+        solve(s,path,0);
         return result;
     }
 
-    void checkMinimum(string s, int index, vector<string>& temp) {
-        if (index >= s.size()) {
-            result.push_back(temp);
-            return;
+    void solve(string s,vector<string>& path,int start){
+        if(start==s.size()){
+            result.push_back(path);
         }
-        for(int i=index;i<s.size();i++){
-            if(isPallin(s,index,i)){
-                temp.push_back(s.substr(index,i-index+1));
-                checkMinimum(s,i+1,temp);
-                temp.pop_back();
+
+        for(int end=start;end<s.size();end++){
+            if(isPallin(s,start,end)){
+                path.push_back(s.substr(start,end-start+1));
+                solve(s,path,end+1);
+                path.pop_back();
             }
         }
     }
-    bool isPallin(string &s,int start,int end){
-   
-        while(start<end){
-            if(s[start]!=s[end]) return false;
-            start++;
-            end--;
+    bool isPallin(string s,int l,int r){
+        while(l<r){
+            if(s[l]!=s[r]){
+                return 0;
+            }
+            l++;
+            r--;
         }
-        return true;
+        return 1;
     }
 };

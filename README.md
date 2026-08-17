@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/abhijit1859/DSA-Arena/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/abhijit1859/DSA-Arena/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/abhijit1859/DSA-Arena/tree/master/0209-minimum-size-subarray-sum) |
+| [0216-combination-sum-iii](https://github.com/abhijit1859/DSA-Arena/tree/main/0216-combination-sum-iii/) | Medium |
 | [0217-contains-duplicate](https://github.com/abhijit1859/DSA-Arena/tree/main/0217-contains-duplicate/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhijit1859/DSA-Arena/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/abhijit1859/DSA-Arena/tree/main/0283-move-zeroes/) | Easy |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/abhijit1859/DSA-Arena/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/abhijit1859/DSA-Arena/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/abhijit1859/DSA-Arena/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0216-combination-sum-iii](https://github.com/abhijit1859/DSA-Arena/tree/main/0216-combination-sum-iii/) | Medium |
 | [0800-letter-case-permutation](https://github.com/abhijit1859/DSA-Arena/tree/master/0800-letter-case-permutation) |
 ## Number Theory
 | Problem Name | Difficulty |

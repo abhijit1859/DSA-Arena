@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/abhijit1859/DSA-Arena/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/abhijit1859/DSA-Arena/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/abhijit1859/DSA-Arena/tree/master/0231-power-of-two) |
+| [0784-letter-case-permutation](https://github.com/abhijit1859/DSA-Arena/tree/main/0784-letter-case-permutation/) | Medium |
 | [0800-letter-case-permutation](https://github.com/abhijit1859/DSA-Arena/tree/master/0800-letter-case-permutation) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/abhijit1859/DSA-Arena/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/abhijit1859/DSA-Arena/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/abhijit1859/DSA-Arena/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/abhijit1859/DSA-Arena/tree/main/0567-permutation-in-string/) | Medium |
 | [0753-cracking-the-safe](https://github.com/abhijit1859/DSA-Arena/tree/main/0753-cracking-the-safe/) | Hard |
+| [0784-letter-case-permutation](https://github.com/abhijit1859/DSA-Arena/tree/main/0784-letter-case-permutation/) | Medium |
 | [0800-letter-case-permutation](https://github.com/abhijit1859/DSA-Arena/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/abhijit1859/DSA-Arena/tree/master/0812-rotate-string) |
 | [0889-buddy-strings](https://github.com/abhijit1859/DSA-Arena/tree/master/0889-buddy-strings) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/abhijit1859/DSA-Arena/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/abhijit1859/DSA-Arena/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/abhijit1859/DSA-Arena/tree/main/0216-combination-sum-iii/) | Medium |
+| [0784-letter-case-permutation](https://github.com/abhijit1859/DSA-Arena/tree/main/0784-letter-case-permutation/) | Medium |
 | [0800-letter-case-permutation](https://github.com/abhijit1859/DSA-Arena/tree/master/0800-letter-case-permutation) |
 ## Number Theory
 | Problem Name | Difficulty |

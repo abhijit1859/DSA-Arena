@@ -2,13 +2,16 @@ class Solution {
 public:
     int subarrayGCD(vector<int>& nums, int k) {
         int ans=0;
-        for(int i=0;i<nums.size();i++){
-            int g=0;
-            for(int j=i;j<nums.size();j++){
-                g=gcd(g,nums[j]);
-                if(g==k) ans++;
-                if(g<k) break;
+        map<int,int> prev;
+        for(int x:nums){
+            map<int,int> curr;
+            curr[x]++;
+            for(auto &[g,cnt]:prev){
+                int newGcd=gcd(g,x);
+                curr[newGcd]+=cnt;
             }
+            ans+=curr[k];
+            prev=curr;
         }
         return ans;
     }

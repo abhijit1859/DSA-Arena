@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/abhijit1859/DSA-Arena/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/abhijit1859/DSA-Arena/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/abhijit1859/DSA-Arena/tree/master/1013-fibonacci-number) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/abhijit1859/DSA-Arena/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/abhijit1859/DSA-Arena/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2029-stone-game-ix](https://github.com/abhijit1859/DSA-Arena/tree/main/2029-stone-game-ix/) | Medium |
 | [2427-number-of-common-factors](https://github.com/abhijit1859/DSA-Arena/tree/main/2427-number-of-common-factors/) | Easy |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/abhijit1859/DSA-Arena/tree/master/0812-rotate-string) |
 | [0889-buddy-strings](https://github.com/abhijit1859/DSA-Arena/tree/master/0889-buddy-strings) |
 | [0953-reverse-only-letters](https://github.com/abhijit1859/DSA-Arena/tree/master/0953-reverse-only-letters) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/abhijit1859/DSA-Arena/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/abhijit1859/DSA-Arena/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1250-longest-common-subsequence](https://github.com/abhijit1859/DSA-Arena/tree/master/1250-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhijit1859/DSA-Arena/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -712,9 +714,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/abhijit1859/DSA-Arena/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [2427-number-of-common-factors](https://github.com/abhijit1859/DSA-Arena/tree/main/2427-number-of-common-factors/) | Easy |
 ## Greatest Common Divisor
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/abhijit1859/DSA-Arena/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [2427-number-of-common-factors](https://github.com/abhijit1859/DSA-Arena/tree/main/2427-number-of-common-factors/) | Easy |
 <!---LeetCode Topics End-->

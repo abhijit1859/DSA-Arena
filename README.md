@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/abhijit1859/DSA-Arena/tree/main/1929-concatenation-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/abhijit1859/DSA-Arena/tree/main/2029-stone-game-ix/) | Medium |
 | [2090-k-radius-subarray-averages](https://github.com/abhijit1859/DSA-Arena/tree/main/2090-k-radius-subarray-averages/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/abhijit1859/DSA-Arena/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2097-valid-arrangement-of-pairs](https://github.com/abhijit1859/DSA-Arena/tree/main/2097-valid-arrangement-of-pairs/) | Hard |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhijit1859/DSA-Arena/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/abhijit1859/DSA-Arena/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-furthest-building-you-can-reach](https://github.com/abhijit1859/DSA-Arena/tree/main/1642-furthest-building-you-can-reach/) | Medium |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/abhijit1859/DSA-Arena/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
 | [2029-stone-game-ix](https://github.com/abhijit1859/DSA-Arena/tree/main/2029-stone-game-ix/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/abhijit1859/DSA-Arena/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/abhijit1859/DSA-Arena/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |

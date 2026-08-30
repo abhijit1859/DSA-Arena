@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-k-radius-subarray-averages](https://github.com/abhijit1859/DSA-Arena/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2097-valid-arrangement-of-pairs](https://github.com/abhijit1859/DSA-Arena/tree/main/2097-valid-arrangement-of-pairs/) | Hard |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhijit1859/DSA-Arena/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/abhijit1859/DSA-Arena/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhijit1859/DSA-Arena/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2706-buy-two-chocolates](https://github.com/abhijit1859/DSA-Arena/tree/main/2706-buy-two-chocolates/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/abhijit1859/DSA-Arena/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/abhijit1859/DSA-Arena/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2029-stone-game-ix](https://github.com/abhijit1859/DSA-Arena/tree/main/2029-stone-game-ix/) | Medium |
 | [2427-number-of-common-factors](https://github.com/abhijit1859/DSA-Arena/tree/main/2427-number-of-common-factors/) | Easy |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/abhijit1859/DSA-Arena/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/abhijit1859/DSA-Arena/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2427-number-of-common-factors](https://github.com/abhijit1859/DSA-Arena/tree/main/2427-number-of-common-factors/) | Easy |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/abhijit1859/DSA-Arena/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/abhijit1859/DSA-Arena/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Queue
 | Problem Name | Difficulty |

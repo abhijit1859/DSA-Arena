@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/abhijit1859/DSA-Arena/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/abhijit1859/DSA-Arena/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1206-design-skiplist](https://github.com/abhijit1859/DSA-Arena/tree/main/1206-design-skiplist/) | Hard |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/abhijit1859/DSA-Arena/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |

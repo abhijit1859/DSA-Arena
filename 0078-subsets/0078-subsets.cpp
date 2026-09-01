@@ -1,23 +1,18 @@
 class Solution {
 public:
-    vector<vector<int>> result;
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<int> temp;
-        genSub(nums,temp,0);
-        return result;
-    }
-
-    void genSub(vector<int>& nums,vector<int>& temp,int index){
-        if(index>=nums.size()){
-            result.push_back(temp);
-            return;
+        vector<vector<int>> ans;
+        int n=nums.size();
+        for(int num=0;num<(1<<n);num++){
+            vector<int> temp;
+            for(int i=0;i<n;i++){
+                if((num&(1<<i))!=0){
+                    temp.push_back(nums[i]);
+                }
+            }
+            ans.push_back(temp);
         }
-        
-        temp.push_back(nums[index]);
-        genSub(nums,temp,index+1);
-        temp.pop_back();
-        genSub(nums,temp,index+1);
+        return ans;
+
     }
-
-
 };

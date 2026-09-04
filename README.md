@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/abhijit1859/DSA-Arena/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/abhijit1859/DSA-Arena/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/abhijit1859/DSA-Arena/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/abhijit1859/DSA-Arena/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/abhijit1859/DSA-Arena/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abhijit1859/DSA-Arena/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/abhijit1859/DSA-Arena/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3903-smallest-stable-index-i](https://github.com/abhijit1859/DSA-Arena/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/abhijit1859/DSA-Arena/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |

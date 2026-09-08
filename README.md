@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/abhijit1859/DSA-Arena/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/abhijit1859/DSA-Arena/tree/main/0029-divide-two-integers/) | Medium |
 | [0050-powx-n](https://github.com/abhijit1859/DSA-Arena/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/abhijit1859/DSA-Arena/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/abhijit1859/DSA-Arena/tree/master/0069-sqrtx) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/abhijit1859/DSA-Arena/tree/main/0029-divide-two-integers/) | Medium |
 | [0078-subsets](https://github.com/abhijit1859/DSA-Arena/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/abhijit1859/DSA-Arena/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/abhijit1859/DSA-Arena/tree/main/0136-single-number/) | Easy |

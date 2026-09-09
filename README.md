@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/abhijit1859/DSA-Arena/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/abhijit1859/DSA-Arena/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/abhijit1859/DSA-Arena/tree/main/0200-number-of-islands/) | Medium |
+| [0204-count-primes](https://github.com/abhijit1859/DSA-Arena/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/abhijit1859/DSA-Arena/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/abhijit1859/DSA-Arena/tree/main/0216-combination-sum-iii/) | Medium |
 | [0217-contains-duplicate](https://github.com/abhijit1859/DSA-Arena/tree/main/0217-contains-duplicate/) | Easy |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/abhijit1859/DSA-Arena/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/abhijit1859/DSA-Arena/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/abhijit1859/DSA-Arena/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/abhijit1859/DSA-Arena/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/abhijit1859/DSA-Arena/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/abhijit1859/DSA-Arena/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0412-fizz-buzz](https://github.com/abhijit1859/DSA-Arena/tree/master/0412-fizz-buzz) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/abhijit1859/DSA-Arena/tree/main/0204-count-primes/) | Medium |
 | [2427-number-of-common-factors](https://github.com/abhijit1859/DSA-Arena/tree/main/2427-number-of-common-factors/) | Easy |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/abhijit1859/DSA-Arena/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/abhijit1859/DSA-Arena/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -727,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/abhijit1859/DSA-Arena/tree/main/0204-count-primes/) | Medium |
 | [2427-number-of-common-factors](https://github.com/abhijit1859/DSA-Arena/tree/main/2427-number-of-common-factors/) | Easy |
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
@@ -738,4 +742,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/abhijit1859/DSA-Arena/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [2427-number-of-common-factors](https://github.com/abhijit1859/DSA-Arena/tree/main/2427-number-of-common-factors/) | Easy |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/abhijit1859/DSA-Arena/tree/main/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/abhijit1859/DSA-Arena/tree/main/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/abhijit1859/DSA-Arena/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->

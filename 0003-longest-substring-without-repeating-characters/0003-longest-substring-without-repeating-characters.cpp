@@ -5,9 +5,9 @@ public:
         int left=0;
         int ans=0;
         for(int right=0;right<s.length();right++){
-            char c=s[right];
-            mp[c]++;
-            while(mp[c]>1){
+            char ch=s[right];
+            mp[ch]++;
+            while(mp[ch]>1){
                 mp[s[left]]--;
                 left++;
             }

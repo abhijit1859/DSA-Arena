@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/abhijit1859/DSA-Arena/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/abhijit1859/DSA-Arena/tree/main/0739-daily-temperatures/) | Medium |
 | [0747-min-cost-climbing-stairs](https://github.com/abhijit1859/DSA-Arena/tree/master/0747-min-cost-climbing-stairs) |
+| [0835-image-overlap](https://github.com/abhijit1859/DSA-Arena/tree/main/0835-image-overlap/) | Medium |
 | [0860-lemonade-change](https://github.com/abhijit1859/DSA-Arena/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/abhijit1859/DSA-Arena/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/abhijit1859/DSA-Arena/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/abhijit1859/DSA-Arena/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0542-01-matrix](https://github.com/abhijit1859/DSA-Arena/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/abhijit1859/DSA-Arena/tree/main/0733-flood-fill/) | Easy |
+| [0835-image-overlap](https://github.com/abhijit1859/DSA-Arena/tree/main/0835-image-overlap/) | Medium |
 | [0994-rotting-oranges](https://github.com/abhijit1859/DSA-Arena/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/abhijit1859/DSA-Arena/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/abhijit1859/DSA-Arena/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |

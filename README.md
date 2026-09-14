@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/abhijit1859/DSA-Arena/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0412-fizz-buzz](https://github.com/abhijit1859/DSA-Arena/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/abhijit1859/DSA-Arena/tree/master/0633-sum-of-square-numbers) |
+| [0836-rectangle-overlap](https://github.com/abhijit1859/DSA-Arena/tree/main/0836-rectangle-overlap/) | Easy |
 | [1013-fibonacci-number](https://github.com/abhijit1859/DSA-Arena/tree/master/1013-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/abhijit1859/DSA-Arena/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/abhijit1859/DSA-Arena/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -767,4 +768,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/abhijit1859/DSA-Arena/tree/main/0204-count-primes/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/abhijit1859/DSA-Arena/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->

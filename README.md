@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/abhijit1859/DSA-Arena/tree/main/1020-number-of-enclaves/) | Medium |
 | [1034-subarrays-with-k-different-integers](https://github.com/abhijit1859/DSA-Arena/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhijit1859/DSA-Arena/tree/master/1046-max-consecutive-ones-iii) |
+| [1053-previous-permutation-with-one-swap](https://github.com/abhijit1859/DSA-Arena/tree/main/1053-previous-permutation-with-one-swap/) | Medium |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/abhijit1859/DSA-Arena/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/abhijit1859/DSA-Arena/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abhijit1859/DSA-Arena/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/abhijit1859/DSA-Arena/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/abhijit1859/DSA-Arena/tree/main/0860-lemonade-change/) | Easy |
 | [0917-boats-to-save-people](https://github.com/abhijit1859/DSA-Arena/tree/master/0917-boats-to-save-people) |
+| [1053-previous-permutation-with-one-swap](https://github.com/abhijit1859/DSA-Arena/tree/main/1053-previous-permutation-with-one-swap/) | Medium |
 | [1642-furthest-building-you-can-reach](https://github.com/abhijit1859/DSA-Arena/tree/main/1642-furthest-building-you-can-reach/) | Medium |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/abhijit1859/DSA-Arena/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
 | [2029-stone-game-ix](https://github.com/abhijit1859/DSA-Arena/tree/main/2029-stone-game-ix/) | Medium |

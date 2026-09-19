@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/abhijit1859/DSA-Arena/tree/main/0836-rectangle-overlap/) | Easy |
 | [1013-fibonacci-number](https://github.com/abhijit1859/DSA-Arena/tree/master/1013-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/abhijit1859/DSA-Arena/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/abhijit1859/DSA-Arena/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/abhijit1859/DSA-Arena/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2029-stone-game-ix](https://github.com/abhijit1859/DSA-Arena/tree/main/2029-stone-game-ix/) | Medium |
 | [2427-number-of-common-factors](https://github.com/abhijit1859/DSA-Arena/tree/main/2427-number-of-common-factors/) | Easy |
@@ -780,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/abhijit1859/DSA-Arena/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/abhijit1859/DSA-Arena/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Timsort
 | Problem Name | Difficulty |
 | ------- | ------- |

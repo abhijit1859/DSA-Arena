@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-determine-if-string-halves-are-alike](https://github.com/abhijit1859/DSA-Arena/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/abhijit1859/DSA-Arena/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/abhijit1859/DSA-Arena/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [3498-reverse-degree-of-a-string](https://github.com/abhijit1859/DSA-Arena/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/abhijit1859/DSA-Arena/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1929-concatenation-of-array](https://github.com/abhijit1859/DSA-Arena/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhijit1859/DSA-Arena/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/abhijit1859/DSA-Arena/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |

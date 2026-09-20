@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/abhijit1859/DSA-Arena/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/abhijit1859/DSA-Arena/tree/main/0085-maximal-rectangle/) | Hard |
 | [0090-subsets-ii](https://github.com/abhijit1859/DSA-Arena/tree/master/0090-subsets-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/abhijit1859/DSA-Arena/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/abhijit1859/DSA-Arena/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhijit1859/DSA-Arena/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/abhijit1859/DSA-Arena/tree/master/0162-find-peak-element) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/abhijit1859/DSA-Arena/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/abhijit1859/DSA-Arena/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/abhijit1859/DSA-Arena/tree/main/0127-word-ladder/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/abhijit1859/DSA-Arena/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/abhijit1859/DSA-Arena/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhijit1859/DSA-Arena/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhijit1859/DSA-Arena/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -666,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/abhijit1859/DSA-Arena/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/abhijit1859/DSA-Arena/tree/main/0200-number-of-islands/) | Medium |
 | [0399-evaluate-division](https://github.com/abhijit1859/DSA-Arena/tree/main/0399-evaluate-division/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/abhijit1859/DSA-Arena/tree/main/0785-is-graph-bipartite/) | Medium |

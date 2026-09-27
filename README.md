@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/abhijit1859/DSA-Arena/tree/main/0200-number-of-islands/) | Medium |
 | [0204-count-primes](https://github.com/abhijit1859/DSA-Arena/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/abhijit1859/DSA-Arena/tree/master/0209-minimum-size-subarray-sum) |
+| [0213-house-robber-ii](https://github.com/abhijit1859/DSA-Arena/tree/main/0213-house-robber-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/abhijit1859/DSA-Arena/tree/main/0216-combination-sum-iii/) | Medium |
 | [0217-contains-duplicate](https://github.com/abhijit1859/DSA-Arena/tree/main/0217-contains-duplicate/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhijit1859/DSA-Arena/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/abhijit1859/DSA-Arena/tree/main/0085-maximal-rectangle/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/abhijit1859/DSA-Arena/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0198-house-robber](https://github.com/abhijit1859/DSA-Arena/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/abhijit1859/DSA-Arena/tree/main/0213-house-robber-ii/) | Medium |
 | [0322-coin-change](https://github.com/abhijit1859/DSA-Arena/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/abhijit1859/DSA-Arena/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0509-fibonacci-number](https://github.com/abhijit1859/DSA-Arena/tree/main/0509-fibonacci-number/) | Easy |

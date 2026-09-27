@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/abhijit1859/DSA-Arena/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/abhijit1859/DSA-Arena/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0412-fizz-buzz](https://github.com/abhijit1859/DSA-Arena/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/abhijit1859/DSA-Arena/tree/main/0509-fibonacci-number/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/abhijit1859/DSA-Arena/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/abhijit1859/DSA-Arena/tree/main/0836-rectangle-overlap/) | Easy |
 | [1013-fibonacci-number](https://github.com/abhijit1859/DSA-Arena/tree/master/1013-fibonacci-number) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/abhijit1859/DSA-Arena/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/abhijit1859/DSA-Arena/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/abhijit1859/DSA-Arena/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/abhijit1859/DSA-Arena/tree/main/0509-fibonacci-number/) | Easy |
 | [1013-fibonacci-number](https://github.com/abhijit1859/DSA-Arena/tree/master/1013-fibonacci-number) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/abhijit1859/DSA-Arena/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhijit1859/DSA-Arena/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/abhijit1859/DSA-Arena/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/abhijit1859/DSA-Arena/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/abhijit1859/DSA-Arena/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0509-fibonacci-number](https://github.com/abhijit1859/DSA-Arena/tree/main/0509-fibonacci-number/) | Easy |
 | [0542-01-matrix](https://github.com/abhijit1859/DSA-Arena/tree/main/0542-01-matrix/) | Medium |
 | [0647-palindromic-substrings](https://github.com/abhijit1859/DSA-Arena/tree/main/0647-palindromic-substrings/) | Medium |
 | [0747-min-cost-climbing-stairs](https://github.com/abhijit1859/DSA-Arena/tree/master/0747-min-cost-climbing-stairs) |
@@ -599,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/abhijit1859/DSA-Arena/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/abhijit1859/DSA-Arena/tree/main/0509-fibonacci-number/) | Easy |
 | [1013-fibonacci-number](https://github.com/abhijit1859/DSA-Arena/tree/master/1013-fibonacci-number) |
 ## Combinatorics
 | Problem Name | Difficulty |

@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhijit1859/DSA-Arena/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1250-longest-common-subsequence](https://github.com/abhijit1859/DSA-Arena/tree/master/1250-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhijit1859/DSA-Arena/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhijit1859/DSA-Arena/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/abhijit1859/DSA-Arena/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/abhijit1859/DSA-Arena/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/abhijit1859/DSA-Arena/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/abhijit1859/DSA-Arena/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/abhijit1859/DSA-Arena/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhijit1859/DSA-Arena/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhijit1859/DSA-Arena/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/abhijit1859/DSA-Arena/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -811,4 +813,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhijit1859/DSA-Arena/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhijit1859/DSA-Arena/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->

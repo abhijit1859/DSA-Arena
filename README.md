@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/abhijit1859/DSA-Arena/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/abhijit1859/DSA-Arena/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/abhijit1859/DSA-Arena/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/abhijit1859/DSA-Arena/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/abhijit1859/DSA-Arena/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/abhijit1859/DSA-Arena/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1929-concatenation-of-array](https://github.com/abhijit1859/DSA-Arena/tree/main/1929-concatenation-of-array/) | Easy |
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/abhijit1859/DSA-Arena/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/abhijit1859/DSA-Arena/tree/master/1250-longest-common-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/abhijit1859/DSA-Arena/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/abhijit1859/DSA-Arena/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/abhijit1859/DSA-Arena/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |

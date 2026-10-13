@@ -6,7 +6,7 @@ public:
         for(int i=0;i<n;i++){
             squares[i]=1LL*nums[i]*nums[i];
         }
-        sort(squares.begin(),squares.end());
+        nth_element(squares.begin() , squares.begin() + n/2 , squares.end());
         long long ans=0;
         for(int i=0;i<n;i++){
             if(i<n/2){

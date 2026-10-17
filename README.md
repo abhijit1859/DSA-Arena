@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/abhijit1859/DSA-Arena/tree/master/0953-reverse-only-letters) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/abhijit1859/DSA-Arena/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/abhijit1859/DSA-Arena/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/abhijit1859/DSA-Arena/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhijit1859/DSA-Arena/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1250-longest-common-subsequence](https://github.com/abhijit1859/DSA-Arena/tree/master/1250-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhijit1859/DSA-Arena/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -611,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/abhijit1859/DSA-Arena/tree/master/0747-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/abhijit1859/DSA-Arena/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1013-fibonacci-number](https://github.com/abhijit1859/DSA-Arena/tree/master/1013-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/abhijit1859/DSA-Arena/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1250-longest-common-subsequence](https://github.com/abhijit1859/DSA-Arena/tree/master/1250-longest-common-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/abhijit1859/DSA-Arena/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/abhijit1859/DSA-Arena/tree/main/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Hard |
@@ -833,4 +835,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/abhijit1859/DSA-Arena/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/abhijit1859/DSA-Arena/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/abhijit1859/DSA-Arena/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->

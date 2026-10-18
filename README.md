@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/abhijit1859/DSA-Arena/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhijit1859/DSA-Arena/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1250-longest-common-subsequence](https://github.com/abhijit1859/DSA-Arena/tree/master/1250-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/abhijit1859/DSA-Arena/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhijit1859/DSA-Arena/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhijit1859/DSA-Arena/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/abhijit1859/DSA-Arena/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/abhijit1859/DSA-Arena/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/abhijit1859/DSA-Arena/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1250-longest-common-subsequence](https://github.com/abhijit1859/DSA-Arena/tree/master/1250-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/abhijit1859/DSA-Arena/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/abhijit1859/DSA-Arena/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/abhijit1859/DSA-Arena/tree/main/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Hard |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/abhijit1859/DSA-Arena/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |

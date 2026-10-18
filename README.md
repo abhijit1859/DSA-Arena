@@ -844,4 +844,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1092-shortest-common-supersequence](https://github.com/abhijit1859/DSA-Arena/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/abhijit1859/DSA-Arena/tree/main/1143-longest-common-subsequence/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/abhijit1859/DSA-Arena/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->

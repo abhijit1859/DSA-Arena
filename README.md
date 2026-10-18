@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhijit1859/DSA-Arena/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/abhijit1859/DSA-Arena/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/abhijit1859/DSA-Arena/tree/main/0049-group-anagrams/) | Medium |
+| [0072-edit-distance](https://github.com/abhijit1859/DSA-Arena/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/abhijit1859/DSA-Arena/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/abhijit1859/DSA-Arena/tree/main/0079-word-search/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/abhijit1859/DSA-Arena/tree/master/0093-restore-ip-addresses) |
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/abhijit1859/DSA-Arena/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/abhijit1859/DSA-Arena/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/abhijit1859/DSA-Arena/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/abhijit1859/DSA-Arena/tree/main/0072-edit-distance/) | Medium |
 | [0085-maximal-rectangle](https://github.com/abhijit1859/DSA-Arena/tree/main/0085-maximal-rectangle/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/abhijit1859/DSA-Arena/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0198-house-robber](https://github.com/abhijit1859/DSA-Arena/tree/master/0198-house-robber) |

@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/abhijit1859/DSA-Arena/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/abhijit1859/DSA-Arena/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/abhijit1859/DSA-Arena/tree/master/0459-repeated-substring-pattern) |
+| [0516-longest-palindromic-subsequence](https://github.com/abhijit1859/DSA-Arena/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0520-detect-capital](https://github.com/abhijit1859/DSA-Arena/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/abhijit1859/DSA-Arena/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/abhijit1859/DSA-Arena/tree/main/0647-palindromic-substrings/) | Medium |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/abhijit1859/DSA-Arena/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/abhijit1859/DSA-Arena/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0509-fibonacci-number](https://github.com/abhijit1859/DSA-Arena/tree/main/0509-fibonacci-number/) | Easy |
+| [0516-longest-palindromic-subsequence](https://github.com/abhijit1859/DSA-Arena/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0542-01-matrix](https://github.com/abhijit1859/DSA-Arena/tree/main/0542-01-matrix/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/abhijit1859/DSA-Arena/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0647-palindromic-substrings](https://github.com/abhijit1859/DSA-Arena/tree/main/0647-palindromic-substrings/) | Medium |

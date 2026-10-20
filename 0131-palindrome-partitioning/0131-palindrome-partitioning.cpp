@@ -1,34 +1,30 @@
 class Solution {
 public:
     vector<vector<string>> result;
+    vector<string> path;
     vector<vector<string>> partition(string s) {
-        vector<string> temp;
-        solve(s,0,temp);
+        solve(s,0);
         return result;
-
     }
-    void solve(string s,int start,vector<string> temp){
-        if(start==s.size()){
-            result.push_back(temp);
+    void solve(string& s,int index){
+        if(index==s.length()){
+            result.push_back(path);
+            return;
         }
-        for(int i=start;i<s.size();i++){
-            if(isPallin(s.substr(start,i-start+1))){
-                temp.push_back(s.substr(start,i-start+1));
-                solve(s,i+1,temp);
-                temp.pop_back();
+        for(int i=index;i<s.length();i++){
+            if(isPalin(s,index,i)){
+                path.push_back(s.substr(index,i-index+1));
+                solve(s,i+1);
+                path.pop_back();
             }
         }
     }
-    bool isPallin(string s){
-        int l=0;
-        int r=s.size()-1;
-        while(l<r){
-            if(s[l]!=s[r]){
-                return 0;
-            }
+    bool isPalin(string &s, int l, int r) {
+        while (l < r) {
+            if (s[l] != s[r]) return false;
             l++;
             r--;
         }
-        return 1;
+        return true;
     }
 };

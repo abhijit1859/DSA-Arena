@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/abhijit1859/DSA-Arena/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/abhijit1859/DSA-Arena/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/abhijit1859/DSA-Arena/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/abhijit1859/DSA-Arena/tree/main/0063-unique-paths-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/abhijit1859/DSA-Arena/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/abhijit1859/DSA-Arena/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/abhijit1859/DSA-Arena/tree/main/0078-subsets/) | Medium |
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/abhijit1859/DSA-Arena/tree/main/0042-trapping-rain-water/) | Hard |
 | [0055-jump-game](https://github.com/abhijit1859/DSA-Arena/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/abhijit1859/DSA-Arena/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/abhijit1859/DSA-Arena/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/abhijit1859/DSA-Arena/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/abhijit1859/DSA-Arena/tree/main/0072-edit-distance/) | Medium |
 | [0085-maximal-rectangle](https://github.com/abhijit1859/DSA-Arena/tree/main/0085-maximal-rectangle/) | Hard |
@@ -641,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/abhijit1859/DSA-Arena/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/abhijit1859/DSA-Arena/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/abhijit1859/DSA-Arena/tree/main/0063-unique-paths-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/abhijit1859/DSA-Arena/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/abhijit1859/DSA-Arena/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/abhijit1859/DSA-Arena/tree/main/0079-word-search/) | Medium |

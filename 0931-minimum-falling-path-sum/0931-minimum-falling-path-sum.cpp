@@ -4,7 +4,7 @@ public:
     int m,n;
     vector<vector<bool>> visited;
     int solve(int i,int j,vector<vector<int>>& grid){
-        if(j<0||j>=n) return 1e9;
+        if(j<0||j>=n) return INT_MAX;
         if(i==m-1) return grid[i][j];
         if(visited[i][j]) return dp[i][j];
         visited[i][j]=true;

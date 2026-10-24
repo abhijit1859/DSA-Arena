@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abhijit1859/DSA-Arena/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/abhijit1859/DSA-Arena/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/abhijit1859/DSA-Arena/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/abhijit1859/DSA-Arena/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/abhijit1859/DSA-Arena/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1642-furthest-building-you-can-reach](https://github.com/abhijit1859/DSA-Arena/tree/main/1642-furthest-building-you-can-reach/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/abhijit1859/DSA-Arena/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -630,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/abhijit1859/DSA-Arena/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/abhijit1859/DSA-Arena/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/abhijit1859/DSA-Arena/tree/main/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Hard |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/abhijit1859/DSA-Arena/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/abhijit1859/DSA-Arena/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/abhijit1859/DSA-Arena/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Memoization
@@ -662,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/abhijit1859/DSA-Arena/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/abhijit1859/DSA-Arena/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/abhijit1859/DSA-Arena/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/abhijit1859/DSA-Arena/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/abhijit1859/DSA-Arena/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/abhijit1859/DSA-Arena/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/abhijit1859/DSA-Arena/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |

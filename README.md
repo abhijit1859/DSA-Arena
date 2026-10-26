@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/abhijit1859/DSA-Arena/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhijit1859/DSA-Arena/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2706-buy-two-chocolates](https://github.com/abhijit1859/DSA-Arena/tree/main/2706-buy-two-chocolates/) | Easy |
+| [3363-find-the-maximum-number-of-fruits-collected](https://github.com/abhijit1859/DSA-Arena/tree/main/3363-find-the-maximum-number-of-fruits-collected/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/abhijit1859/DSA-Arena/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhijit1859/DSA-Arena/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/abhijit1859/DSA-Arena/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -639,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/abhijit1859/DSA-Arena/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/abhijit1859/DSA-Arena/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/abhijit1859/DSA-Arena/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+| [3363-find-the-maximum-number-of-fruits-collected](https://github.com/abhijit1859/DSA-Arena/tree/main/3363-find-the-maximum-number-of-fruits-collected/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -675,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/abhijit1859/DSA-Arena/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/abhijit1859/DSA-Arena/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/abhijit1859/DSA-Arena/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+| [3363-find-the-maximum-number-of-fruits-collected](https://github.com/abhijit1859/DSA-Arena/tree/main/3363-find-the-maximum-number-of-fruits-collected/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |

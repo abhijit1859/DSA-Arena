@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhijit1859/DSA-Arena/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/abhijit1859/DSA-Arena/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/abhijit1859/DSA-Arena/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/abhijit1859/DSA-Arena/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhijit1859/DSA-Arena/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/abhijit1859/DSA-Arena/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhijit1859/DSA-Arena/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/abhijit1859/DSA-Arena/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/abhijit1859/DSA-Arena/tree/master/0451-sort-characters-by-frequency) |
@@ -767,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/abhijit1859/DSA-Arena/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0169-majority-element](https://github.com/abhijit1859/DSA-Arena/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhijit1859/DSA-Arena/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhijit1859/DSA-Arena/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -782,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/abhijit1859/DSA-Arena/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0493-reverse-pairs](https://github.com/abhijit1859/DSA-Arena/tree/main/0493-reverse-pairs/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
@@ -912,4 +916,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhijit1859/DSA-Arena/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Tournament Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/abhijit1859/DSA-Arena/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
